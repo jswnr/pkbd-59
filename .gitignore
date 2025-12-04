@@ -1,2 +1,5 @@
 firmware/pico
 firmware/build
+kicad/keyboard/keyboard-backups
+kicad/keyboard/*.lck
+kicad/keyboard/\#auto_saved_files\#
