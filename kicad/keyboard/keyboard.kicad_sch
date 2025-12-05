@@ -4028,7 +4028,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 144.78 148.59 0)
 			(effects
 				(font
@@ -4106,7 +4106,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 91.44 86.36 0)
 			(effects
 				(font
@@ -4114,7 +4114,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 91.44 91.44 0)
 			(effects
 				(font
@@ -4184,7 +4184,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 43.18 123.19 0)
 			(effects
 				(font
@@ -4262,7 +4262,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 167.64 111.76 0)
 			(effects
 				(font
@@ -4270,7 +4270,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 167.64 116.84 0)
 			(effects
 				(font
@@ -4340,7 +4340,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 119.38 46.99 0)
 			(effects
 				(font
@@ -4428,7 +4428,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 93.98 72.39 0)
 			(effects
 				(font
@@ -4517,7 +4517,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 170.18 148.59 0)
 			(effects
 				(font
@@ -4595,7 +4595,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 40.64 137.16 0)
 			(effects
 				(font
@@ -4603,7 +4603,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 40.64 142.24 0)
 			(effects
 				(font
@@ -4663,7 +4663,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 40.64 86.36 0)
 			(effects
 				(font
@@ -4671,7 +4671,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 40.64 91.44 0)
 			(effects
 				(font
@@ -4731,7 +4731,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 154.94 60.96 0)
 			(effects
 				(font
@@ -4739,7 +4739,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 154.94 66.04 0)
 			(effects
 				(font
@@ -4809,7 +4809,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 119.38 123.19 0)
 			(effects
 				(font
@@ -4887,7 +4887,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 129.54 60.96 0)
 			(effects
 				(font
@@ -4895,7 +4895,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 129.54 66.04 0)
 			(effects
 				(font
@@ -4955,7 +4955,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 53.34 137.16 0)
 			(effects
 				(font
@@ -4963,7 +4963,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 53.34 142.24 0)
 			(effects
 				(font
@@ -5033,7 +5033,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 93.98 148.59 0)
 			(effects
 				(font
@@ -5121,7 +5121,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 106.68 72.39 0)
 			(effects
 				(font
@@ -5209,7 +5209,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 157.48 148.59 0)
 			(effects
 				(font
@@ -5297,7 +5297,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 55.88 72.39 0)
 			(effects
 				(font
@@ -5375,7 +5375,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 167.64 137.16 0)
 			(effects
 				(font
@@ -5383,7 +5383,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 167.64 142.24 0)
 			(effects
 				(font
@@ -5453,7 +5453,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 144.78 123.19 0)
 			(effects
 				(font
@@ -5541,7 +5541,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 157.48 72.39 0)
 			(effects
 				(font
@@ -5619,7 +5619,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 66.04 111.76 0)
 			(effects
 				(font
@@ -5627,7 +5627,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 66.04 116.84 0)
 			(effects
 				(font
@@ -5697,7 +5697,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 68.58 72.39 0)
 			(effects
 				(font
@@ -5775,7 +5775,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 167.64 60.96 0)
 			(effects
 				(font
@@ -5783,7 +5783,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 167.64 66.04 0)
 			(effects
 				(font
@@ -5843,7 +5843,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 129.54 137.16 0)
 			(effects
 				(font
@@ -5851,7 +5851,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 129.54 142.24 0)
 			(effects
 				(font
@@ -5921,7 +5921,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 144.78 72.39 0)
 			(effects
 				(font
@@ -6009,7 +6009,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 81.28 148.59 0)
 			(effects
 				(font
@@ -6097,7 +6097,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 93.98 97.79 0)
 			(effects
 				(font
@@ -6175,7 +6175,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 78.74 60.96 0)
 			(effects
 				(font
@@ -6183,7 +6183,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 78.74 66.04 0)
 			(effects
 				(font
@@ -6243,7 +6243,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 104.14 35.56 0)
 			(effects
 				(font
@@ -6251,7 +6251,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 104.14 40.64 0)
 			(effects
 				(font
@@ -6321,7 +6321,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 106.68 123.19 0)
 			(effects
 				(font
@@ -6399,7 +6399,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 116.84 86.36 0)
 			(effects
 				(font
@@ -6407,7 +6407,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 116.84 91.44 0)
 			(effects
 				(font
@@ -6467,7 +6467,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 91.44 111.76 0)
 			(effects
 				(font
@@ -6475,7 +6475,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 91.44 116.84 0)
 			(effects
 				(font
@@ -6535,7 +6535,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 116.84 35.56 0)
 			(effects
 				(font
@@ -6543,7 +6543,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 116.84 40.64 0)
 			(effects
 				(font
@@ -6603,7 +6603,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 104.14 137.16 0)
 			(effects
 				(font
@@ -6611,7 +6611,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 104.14 142.24 0)
 			(effects
 				(font
@@ -6671,7 +6671,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 66.04 35.56 0)
 			(effects
 				(font
@@ -6679,7 +6679,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 66.04 40.64 0)
 			(effects
 				(font
@@ -6739,7 +6739,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 142.24 35.56 0)
 			(effects
 				(font
@@ -6747,7 +6747,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 142.24 40.64 0)
 			(effects
 				(font
@@ -6818,7 +6818,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 182.88 123.19 0)
 			(effects
 				(font
@@ -6896,7 +6896,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 116.84 137.16 0)
 			(effects
 				(font
@@ -6904,7 +6904,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 116.84 142.24 0)
 			(effects
 				(font
@@ -6964,7 +6964,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 78.74 111.76 0)
 			(effects
 				(font
@@ -6972,7 +6972,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 78.74 116.84 0)
 			(effects
 				(font
@@ -7032,7 +7032,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 142.24 60.96 0)
 			(effects
 				(font
@@ -7040,7 +7040,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 142.24 66.04 0)
 			(effects
 				(font
@@ -7110,7 +7110,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 106.68 46.99 0)
 			(effects
 				(font
@@ -7188,7 +7188,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 154.94 35.56 0)
 			(effects
 				(font
@@ -7196,7 +7196,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 154.94 40.64 0)
 			(effects
 				(font
@@ -7256,7 +7256,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 116.84 60.96 0)
 			(effects
 				(font
@@ -7264,7 +7264,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 116.84 66.04 0)
 			(effects
 				(font
@@ -7334,7 +7334,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 55.88 123.19 0)
 			(effects
 				(font
@@ -7412,7 +7412,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 180.34 60.96 0)
 			(effects
 				(font
@@ -7420,7 +7420,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 180.34 66.04 0)
 			(effects
 				(font
@@ -7490,7 +7490,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 132.08 123.19 0)
 			(effects
 				(font
@@ -7568,7 +7568,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 167.64 86.36 0)
 			(effects
 				(font
@@ -7576,7 +7576,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 167.64 91.44 0)
 			(effects
 				(font
@@ -7647,7 +7647,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 182.88 148.59 0)
 			(effects
 				(font
@@ -7725,7 +7725,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 104.14 60.96 0)
 			(effects
 				(font
@@ -7733,7 +7733,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 104.14 66.04 0)
 			(effects
 				(font
@@ -7793,7 +7793,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 66.04 86.36 0)
 			(effects
 				(font
@@ -7801,7 +7801,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 66.04 91.44 0)
 			(effects
 				(font
@@ -7871,7 +7871,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 55.88 148.59 0)
 			(effects
 				(font
@@ -7959,7 +7959,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 119.38 72.39 0)
 			(effects
 				(font
@@ -8037,7 +8037,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 66.04 137.16 0)
 			(effects
 				(font
@@ -8045,7 +8045,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 66.04 142.24 0)
 			(effects
 				(font
@@ -8115,7 +8115,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 68.58 123.19 0)
 			(effects
 				(font
@@ -8203,7 +8203,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 144.78 46.99 0)
 			(effects
 				(font
@@ -8281,7 +8281,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 142.24 86.36 0)
 			(effects
 				(font
@@ -8289,7 +8289,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 142.24 91.44 0)
 			(effects
 				(font
@@ -8359,7 +8359,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 43.18 148.59 0)
 			(effects
 				(font
@@ -8448,7 +8448,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 182.88 97.79 0)
 			(effects
 				(font
@@ -8536,7 +8536,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 119.38 148.59 0)
 			(effects
 				(font
@@ -8624,7 +8624,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 81.28 46.99 0)
 			(effects
 				(font
@@ -8712,7 +8712,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 55.88 46.99 0)
 			(effects
 				(font
@@ -8790,7 +8790,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 104.14 86.36 0)
 			(effects
 				(font
@@ -8798,7 +8798,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 104.14 91.44 0)
 			(effects
 				(font
@@ -8869,7 +8869,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 170.18 123.19 0)
 			(effects
 				(font
@@ -8957,7 +8957,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 68.58 46.99 0)
 			(effects
 				(font
@@ -9045,7 +9045,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 106.68 148.59 0)
 			(effects
 				(font
@@ -9133,7 +9133,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 93.98 46.99 0)
 			(effects
 				(font
@@ -9221,7 +9221,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 132.08 148.59 0)
 			(effects
 				(font
@@ -9299,7 +9299,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 180.34 35.56 0)
 			(effects
 				(font
@@ -9307,7 +9307,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 180.34 40.64 0)
 			(effects
 				(font
@@ -9377,7 +9377,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 157.48 123.19 0)
 			(effects
 				(font
@@ -9465,7 +9465,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 157.48 97.79 0)
 			(effects
 				(font
@@ -9727,7 +9727,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 91.44 60.96 0)
 			(effects
 				(font
@@ -9735,7 +9735,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 91.44 66.04 0)
 			(effects
 				(font
@@ -9795,7 +9795,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 180.34 137.16 0)
 			(effects
 				(font
@@ -9803,7 +9803,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 180.34 142.24 0)
 			(effects
 				(font
@@ -9863,7 +9863,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 180.34 111.76 0)
 			(effects
 				(font
@@ -9871,7 +9871,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 180.34 116.84 0)
 			(effects
 				(font
@@ -9931,7 +9931,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 91.44 137.16 0)
 			(effects
 				(font
@@ -9939,7 +9939,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 91.44 142.24 0)
 			(effects
 				(font
@@ -9999,7 +9999,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 167.64 35.56 0)
 			(effects
 				(font
@@ -10007,7 +10007,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 167.64 40.64 0)
 			(effects
 				(font
@@ -10078,7 +10078,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 182.88 72.39 0)
 			(effects
 				(font
@@ -10166,7 +10166,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 43.18 97.79 0)
 			(effects
 				(font
@@ -10244,7 +10244,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 116.84 111.76 0)
 			(effects
 				(font
@@ -10252,7 +10252,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 116.84 116.84 0)
 			(effects
 				(font
@@ -10322,7 +10322,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 81.28 123.19 0)
 			(effects
 				(font
@@ -10400,7 +10400,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 180.34 86.36 0)
 			(effects
 				(font
@@ -10408,7 +10408,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 180.34 91.44 0)
 			(effects
 				(font
@@ -10468,7 +10468,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 129.54 86.36 0)
 			(effects
 				(font
@@ -10476,7 +10476,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 129.54 91.44 0)
 			(effects
 				(font
@@ -10546,7 +10546,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 43.18 72.39 0)
 			(effects
 				(font
@@ -10634,7 +10634,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 157.48 46.99 0)
 			(effects
 				(font
@@ -10712,7 +10712,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 53.34 111.76 0)
 			(effects
 				(font
@@ -10720,7 +10720,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 53.34 116.84 0)
 			(effects
 				(font
@@ -10780,7 +10780,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 66.04 60.96 0)
 			(effects
 				(font
@@ -10788,7 +10788,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 66.04 66.04 0)
 			(effects
 				(font
@@ -10848,7 +10848,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 91.44 35.56 0)
 			(effects
 				(font
@@ -10856,7 +10856,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 91.44 40.64 0)
 			(effects
 				(font
@@ -10916,7 +10916,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 40.64 60.96 0)
 			(effects
 				(font
@@ -10924,7 +10924,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 40.64 66.04 0)
 			(effects
 				(font
@@ -10994,7 +10994,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 132.08 97.79 0)
 			(effects
 				(font
@@ -11072,7 +11072,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 78.74 137.16 0)
 			(effects
 				(font
@@ -11080,7 +11080,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 78.74 142.24 0)
 			(effects
 				(font
@@ -11140,7 +11140,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 142.24 137.16 0)
 			(effects
 				(font
@@ -11148,7 +11148,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 142.24 142.24 0)
 			(effects
 				(font
@@ -11218,7 +11218,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 68.58 148.59 0)
 			(effects
 				(font
@@ -11306,7 +11306,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 132.08 46.99 0)
 			(effects
 				(font
@@ -11394,7 +11394,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 119.38 97.79 0)
 			(effects
 				(font
@@ -11483,7 +11483,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 182.88 46.99 0)
 			(effects
 				(font
@@ -11561,7 +11561,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 40.64 35.56 0)
 			(effects
 				(font
@@ -11569,7 +11569,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 40.64 40.64 0)
 			(effects
 				(font
@@ -11629,7 +11629,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 129.54 111.76 0)
 			(effects
 				(font
@@ -11637,7 +11637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 129.54 116.84 0)
 			(effects
 				(font
@@ -11707,7 +11707,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 43.18 46.99 0)
 			(effects
 				(font
@@ -11785,7 +11785,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 154.94 86.36 0)
 			(effects
 				(font
@@ -11793,7 +11793,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 154.94 91.44 0)
 			(effects
 				(font
@@ -11863,7 +11863,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 55.88 97.79 0)
 			(effects
 				(font
@@ -11941,7 +11941,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 78.74 35.56 0)
 			(effects
 				(font
@@ -11949,7 +11949,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 78.74 40.64 0)
 			(effects
 				(font
@@ -12019,7 +12019,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 132.08 72.39 0)
 			(effects
 				(font
@@ -12097,7 +12097,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 154.94 137.16 0)
 			(effects
 				(font
@@ -12105,7 +12105,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 154.94 142.24 0)
 			(effects
 				(font
@@ -12165,7 +12165,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 129.54 35.56 0)
 			(effects
 				(font
@@ -12173,7 +12173,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 129.54 40.64 0)
 			(effects
 				(font
@@ -12233,7 +12233,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 53.34 60.96 0)
 			(effects
 				(font
@@ -12241,7 +12241,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 53.34 66.04 0)
 			(effects
 				(font
@@ -12312,7 +12312,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 170.18 46.99 0)
 			(effects
 				(font
@@ -12390,7 +12390,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 53.34 35.56 0)
 			(effects
 				(font
@@ -12398,7 +12398,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 53.34 40.64 0)
 			(effects
 				(font
@@ -12468,7 +12468,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 81.28 97.79 0)
 			(effects
 				(font
@@ -12546,7 +12546,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 154.94 111.76 0)
 			(effects
 				(font
@@ -12554,7 +12554,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 154.94 116.84 0)
 			(effects
 				(font
@@ -12625,7 +12625,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 170.18 72.39 0)
 			(effects
 				(font
@@ -12703,7 +12703,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 53.34 86.36 0)
 			(effects
 				(font
@@ -12711,7 +12711,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 53.34 91.44 0)
 			(effects
 				(font
@@ -12781,7 +12781,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 93.98 123.19 0)
 			(effects
 				(font
@@ -12859,7 +12859,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 104.14 111.76 0)
 			(effects
 				(font
@@ -12867,7 +12867,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 104.14 116.84 0)
 			(effects
 				(font
@@ -12937,7 +12937,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 106.68 97.79 0)
 			(effects
 				(font
@@ -13015,7 +13015,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 142.24 111.76 0)
 			(effects
 				(font
@@ -13023,7 +13023,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 142.24 116.84 0)
 			(effects
 				(font
@@ -13083,7 +13083,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 78.74 86.36 0)
 			(effects
 				(font
@@ -13091,7 +13091,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 78.74 91.44 0)
 			(effects
 				(font
@@ -13161,7 +13161,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 68.58 97.79 0)
 			(effects
 				(font
@@ -13239,7 +13239,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 40.64 111.76 0)
 			(effects
 				(font
@@ -13247,7 +13247,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 40.64 116.84 0)
 			(effects
 				(font
@@ -13318,7 +13318,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 170.18 97.79 0)
 			(effects
 				(font
@@ -13406,7 +13406,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 144.78 97.79 0)
 			(effects
 				(font
@@ -13494,7 +13494,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 81.28 72.39 0)
 			(effects
 				(font
