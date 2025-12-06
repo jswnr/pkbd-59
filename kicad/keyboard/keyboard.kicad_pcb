@@ -180,10 +180,10 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "02b4e5a4-35ea-4cce-bc42-6284238f555b")
-		(at 251.04 111.42)
+		(at 42.04 130.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
-		(property "Reference" "SW45"
+		(property "Reference" "SW47"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "22a8f957-5112-490b-94a9-2ff4b242721b")
@@ -194,7 +194,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "ef1b4854-2f8e-4156-832f-e697fa4038cd")
@@ -444,7 +444,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 85 "Net-(D45-A)")
+			(net 87 "Net-(D47-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "fe300014-688a-4631-952b-9b3711ba2265")
@@ -479,7 +479,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "9115792a-768d-4ca5-8e22-13089ce0e657")
@@ -764,7 +764,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "bfebdadf-e136-4b33-8c3d-8c9b3750c1f4")
@@ -2591,10 +2591,10 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "0a24ce8b-968c-4b55-b79a-ed51d9a3feb1")
-		(at 251.04 130.42)
+		(at 270.04 111.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
-		(property "Reference" "SW58"
+		(property "Reference" "SW46"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "b8fec8b3-0253-4c7b-beed-15afe8d135f1")
@@ -2605,7 +2605,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "22e5d92c-3ddb-4edd-99ee-f704e3a81f81")
@@ -2855,7 +2855,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 98 "Net-(D58-A)")
+			(net 86 "Net-(D46-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "424466f6-3e04-402d-add5-d22f3cbdb824")
@@ -2876,13 +2876,13 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "0c776d6a-b9bd-4bf0-a7fa-94fdb8a70f37")
-		(at 232.04 130.42)
+		(at 250.96 130.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
-		(property "Reference" "SW57"
+		(property "Reference" "SW58"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "7cd23768-b9e5-453b-933f-8aa5099558dc")
+			(uuid "ebaf95de-c484-46cc-aeb6-2c934c3deaf2")
 			(effects
 				(font
 					(size 1 1)
@@ -2890,10 +2890,10 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "d7157255-3e23-4c74-b22f-d160b58e3a7d")
+			(uuid "6ede493e-ec3e-4590-932e-b1b47c32ce09")
 			(effects
 				(font
 					(size 1 1)
@@ -2906,7 +2906,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b5495018-045e-4983-affe-93d332991d2a")
+			(uuid "6ea9456d-fd8f-4ff8-b048-e06cd28eb3a8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2919,7 +2919,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "809c6ead-73d7-4279-91fd-f1788012463a")
+			(uuid "0aea8ea6-793c-4e76-a30f-a5fc25701293")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3140,7 +3140,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 97 "Net-(D57-A)")
+			(net 98 "Net-(D58-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "ca609442-49eb-4069-9805-7696bb190d2b")
@@ -3175,7 +3175,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "3d619a09-d4c6-4902-93c1-15709e3efad2")
@@ -3460,7 +3460,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "2ac1d651-4a2c-4563-8fb9-fc6d0cde3991")
@@ -3745,7 +3745,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "2a9e9c84-6d1c-4d58-b9b9-701be8819d5d")
@@ -4030,7 +4030,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "4a066f99-9123-437c-a615-4ab61c2c70a1")
@@ -4315,7 +4315,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "21f844bd-e7af-45d3-be32-e3cc4b1c6f80")
@@ -4600,7 +4600,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "d1220ca8-3101-4f11-825e-3399b833b761")
@@ -4885,7 +4885,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "dcd1b9fe-0148-4924-b8b3-a0de85eb2e9c")
@@ -5170,7 +5170,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "928a69fe-c785-419e-a078-262b73de49f1")
@@ -5455,7 +5455,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "62a5de57-f5ad-404d-ae7b-0e8be5e96db5")
@@ -5740,7 +5740,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "cb9cd1ee-e531-469d-8038-485ed340f620")
@@ -6025,7 +6025,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "bd25cad7-16f6-4d70-8cfc-fd7bc7a7adf9")
@@ -6310,7 +6310,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "f57a20e4-3100-44f9-9396-3ca3ff2a2e45")
@@ -6595,7 +6595,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "ed900ca9-8f8c-4b2f-b13d-1f69751b0057")
@@ -6880,7 +6880,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "41a19b46-de54-4c26-a501-ea0a86fa23f1")
@@ -7151,10 +7151,10 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "4f7703b5-6ac6-441c-bcd5-66b5d552d1fe")
-		(at 99.04 130.42)
+		(at 136.96 130.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
-		(property "Reference" "SW50"
+		(property "Reference" "SW52"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "c774e817-6fc6-491a-936d-9d09406eac04")
@@ -7165,7 +7165,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "56f015f7-b809-43c8-b3f8-ede68e8aabb8")
@@ -7415,7 +7415,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 90 "Net-(D50-A)")
+			(net 92 "Net-(D52-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "8a05dd5d-5000-47e8-a8e5-603272cdc14b")
@@ -7450,7 +7450,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "4b427cbd-243a-482d-8389-de537cd89183")
@@ -7735,7 +7735,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "081dc484-e83f-40bf-bc4c-125c54239a71")
@@ -8020,7 +8020,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "0bee8b6a-b598-476c-a825-1c93fb1e8d22")
@@ -8305,7 +8305,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "857ce578-e1e3-45f9-8cbc-7065bf3653eb")
@@ -8590,7 +8590,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "4472dfaf-4998-4d21-8719-a31536a7367a")
@@ -8861,10 +8861,10 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "62dd4bf2-ef2d-4318-a419-101a95cf3bc1")
-		(at 270.04 111.42)
+		(at 61.04 130.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
-		(property "Reference" "SW46"
+		(property "Reference" "SW48"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "21f18364-e57a-4ca0-8a9b-e078b045dcec")
@@ -8875,7 +8875,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "866f66f7-58bf-4b8e-8247-add9cda177ba")
@@ -9125,7 +9125,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 86 "Net-(D46-A)")
+			(net 88 "Net-(D48-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "651e2adc-7471-4a73-8f90-4a5b2afaa713")
@@ -9160,7 +9160,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "66306cf0-abaa-4589-b721-d8360e19b14f")
@@ -9445,7 +9445,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "3d7fc390-aa45-4beb-be84-0fb09f4062b0")
@@ -9730,7 +9730,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "ee86ac11-c8d6-491d-bfb2-0784c595defa")
@@ -10015,7 +10015,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "8432a69a-930a-4940-9e5b-c5955c87ce1c")
@@ -10300,7 +10300,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "c3451932-5764-43df-a9f8-83d6aa0cf9d1")
@@ -10571,10 +10571,10 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "6c62ea5c-2dd9-4d6d-bd9b-354049cb1de0")
-		(at 118.04 130.42)
+		(at 155.96 130.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
-		(property "Reference" "SW51"
+		(property "Reference" "SW53"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "13d31bce-7aa2-4ca1-b70e-8cd5e91d73a4")
@@ -10585,7 +10585,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "58329e2e-87c4-4fa4-bee2-1a109c5c06ec")
@@ -10835,7 +10835,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 91 "Net-(D51-A)")
+			(net 93 "Net-(D53-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "cd52078a-ab8f-4e71-bca8-d6331f64ec4f")
@@ -10870,7 +10870,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "90de67bb-a6ff-4c5b-9865-a7481d794ba8")
@@ -11155,7 +11155,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "0ca1c406-bdd2-4e73-b218-e35464335305")
@@ -11440,7 +11440,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "7a8e74db-dc1d-499b-8156-0dd48eedabef")
@@ -11725,7 +11725,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "96093754-1ae9-4dad-b823-0b9c8aed2ecb")
@@ -12010,7 +12010,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "fcd3d884-1343-44e1-ba35-c490f2059b7a")
@@ -12281,10 +12281,10 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "945d803f-d029-4002-b903-4f6798e90d24")
-		(at 194.04 130.42)
+		(at 231.96 130.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
-		(property "Reference" "SW55"
+		(property "Reference" "SW57"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "60ffdd29-e59e-42b8-ac5f-fd0bbbe56266")
@@ -12295,7 +12295,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "08132034-df3f-47e1-8ee5-2b490a124f0c")
@@ -12545,7 +12545,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 95 "Net-(D55-A)")
+			(net 97 "Net-(D57-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "c3f5a3ba-654d-47ef-a412-87443777f50c")
@@ -12566,10 +12566,10 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "9729dd1c-954d-4414-94b1-ce020e733554")
-		(at 175.04 130.42)
+		(at 212.96 130.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
-		(property "Reference" "SW54"
+		(property "Reference" "SW56"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "b68b5f6e-c6c4-43a7-a377-15db85e4d8f8")
@@ -12580,7 +12580,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "8aadd7ce-a457-46a4-b4b9-9a3fac956a78")
@@ -12830,7 +12830,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 94 "Net-(D54-A)")
+			(net 96 "Net-(D56-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "ceab7920-5c7b-4a23-a54d-84f6019012a0")
@@ -12851,10 +12851,10 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "99124f13-50de-49f7-b72c-fc535e04f0d3")
-		(at 42.04 130.46)
+		(at 79.96 130.46)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
-		(property "Reference" "SW47"
+		(property "Reference" "SW49"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "366631f7-811e-48f5-8726-0e730bb1fffc")
@@ -12865,7 +12865,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "b89af90a-66ed-45de-a86a-b45a1b02cfe5")
@@ -13115,7 +13115,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 87 "Net-(D47-A)")
+			(net 89 "Net-(D49-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "ada34448-bc4c-474d-98c4-9318fd8632e2")
@@ -13150,7 +13150,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "f3cbdc5a-21f7-4981-a062-c51313b2ded0")
@@ -13435,7 +13435,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "03c5602d-8220-4fc1-8e9c-2a3438a79d1c")
@@ -13720,7 +13720,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "c1e9021b-8910-47ff-81c5-e6a0819589cc")
@@ -14005,7 +14005,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "1f5c6863-364c-470a-a02a-8a771889f43d")
@@ -14290,7 +14290,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "811a5089-7d49-4f2e-90a8-b1a587ae657e")
@@ -14561,10 +14561,10 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "ae6aa1b3-d71c-4f3b-86f7-c534eff8163b")
-		(at 213.04 130.42)
+		(at 251.04 111.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
-		(property "Reference" "SW56"
+		(property "Reference" "SW45"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "8f7a69a0-43f9-4a18-881d-9ed7fd57f097")
@@ -14575,7 +14575,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "cf1e24fc-542e-4f25-9aee-c68ccf914e51")
@@ -14825,7 +14825,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 96 "Net-(D56-A)")
+			(net 85 "Net-(D45-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "09bdc1cb-d601-4f99-a13f-aa0a104013cc")
@@ -14846,10 +14846,10 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "b355c24a-f27f-43e3-8e43-f423e3ecdb80")
-		(at 61.04 130.42)
+		(at 98.96 130.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
-		(property "Reference" "SW48"
+		(property "Reference" "SW50"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "36ec46c6-c888-4767-9459-1bf62af9ae25")
@@ -14860,7 +14860,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "3306a19d-9788-41bc-aa9e-0e4af8acf6d3")
@@ -15110,7 +15110,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 88 "Net-(D48-A)")
+			(net 90 "Net-(D50-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "d47fdcf5-142b-457d-9b7a-f5d1753fd4de")
@@ -15145,7 +15145,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "4a5c3ea5-f12e-46b5-9ca6-b0b7ffa4676e")
@@ -15430,7 +15430,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "dfcec9ea-044e-4183-9c42-fea22a2e04b1")
@@ -15701,10 +15701,10 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "c8e54734-07c0-40bf-8583-2356c11814fd")
-		(at 156.04 130.42)
+		(at 193.96 130.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
-		(property "Reference" "SW53"
+		(property "Reference" "SW55"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "d27a2c98-77fa-4655-8f47-286e694a0bfc")
@@ -15715,7 +15715,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "42a6f148-1059-47c3-b129-1cf8433767c0")
@@ -15965,7 +15965,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 93 "Net-(D53-A)")
+			(net 95 "Net-(D55-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "0be81cd9-f623-4e26-ab2e-9ebefe7272cb")
@@ -16000,7 +16000,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "c2f74c30-18fa-4a05-95f7-f915ab7b6113")
@@ -16285,7 +16285,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "532e1983-d39f-45cf-9b92-ae8ddf121799")
@@ -16570,7 +16570,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "f4089c34-4aec-4cc1-9515-c7fdf47463ac")
@@ -16855,7 +16855,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "793e3997-1b29-44f8-bd75-6d4baf4e5745")
@@ -17126,10 +17126,10 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "de18d747-a76b-40c5-9e59-131aa4c03aed")
-		(at 80.04 130.42)
+		(at 117.96 130.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
-		(property "Reference" "SW49"
+		(property "Reference" "SW51"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "a733bced-722b-4c11-801b-96d8f69984ae")
@@ -17140,7 +17140,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "49579799-d0be-4099-b70e-8a0a824276b5")
@@ -17390,7 +17390,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 89 "Net-(D49-A)")
+			(net 91 "Net-(D51-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "f620ac67-42ef-4264-a76c-6ab7b2acab75")
@@ -17425,7 +17425,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "6fc92a73-d3d0-41a3-895f-19f256ca2dad")
@@ -17696,10 +17696,10 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "e2d92774-ab1c-4427-a182-6ef97578ab88")
-		(at 137.04 130.42)
+		(at 174.96 130.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
-		(property "Reference" "SW52"
+		(property "Reference" "SW54"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "91ff5b01-5f28-45a4-9782-d679f806bcbd")
@@ -17710,7 +17710,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "61f67631-9c2c-4f19-aa69-aab643ff8877")
@@ -17960,7 +17960,7 @@
 			(drill 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 92 "Net-(D52-A)")
+			(net 94 "Net-(D54-A)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "b90babe0-2780-4655-853e-6cec44c41831")
@@ -17995,7 +17995,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "b5be7f18-bd9f-44a5-a9e4-0bf78e1bc632")
@@ -18280,7 +18280,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "b1a23bae-cae1-4193-aa5a-8380065b78a4")
@@ -18979,10 +18979,10 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "08c116b4-7f13-4e12-a12b-3f1176fa9fa0")
-		(at 202.25 138.5 90)
+		(at 240.25 119.5 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
-		(property "Reference" "D56"
+		(property "Reference" "D45"
 			(at 1.27 2.326371 90)
 			(layer "B.SilkS")
 			(uuid "619ddef5-2375-4b42-b561-6b2bb55b2462")
@@ -19172,7 +19172,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 96 "Net-(D56-A)")
+			(net 85 "Net-(D45-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "b1842bfe-0a3f-41ba-a34b-b58d469e334f")
@@ -19407,10 +19407,10 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "0b8aeb0b-c128-4e5f-b51b-584e27148a7d")
-		(at 240.25 138.5 90)
+		(at 259.25 119.5 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
-		(property "Reference" "D58"
+		(property "Reference" "D46"
 			(at 1.27 2.326371 90)
 			(layer "B.SilkS")
 			(uuid "ec0a8ba7-3313-4966-b40d-f2610efcfb9d")
@@ -19600,7 +19600,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 98 "Net-(D58-A)")
+			(net 86 "Net-(D46-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "c6966c3b-1ac8-4a1a-aa37-18bb9b8cfbef")
@@ -22189,10 +22189,10 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "3dfea2c5-f8b5-46cd-adcd-6209cda44745")
-		(at 240.25 119.5 90)
+		(at 31.25 138.5 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
-		(property "Reference" "D45"
+		(property "Reference" "D47"
 			(at 1.27 2.326371 90)
 			(layer "B.SilkS")
 			(uuid "5afed8d9-6d10-4f0e-97da-f84e507bffc6")
@@ -22382,7 +22382,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 85 "Net-(D45-A)")
+			(net 87 "Net-(D47-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "705401de-0d0c-45aa-9f31-5607f6f16205")
@@ -24115,10 +24115,10 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "6f8a2d45-4ba3-4fce-9e20-0d11270ffa40")
-		(at 126.25 138.5 90)
+		(at 164.17 138.5 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
-		(property "Reference" "D52"
+		(property "Reference" "D54"
 			(at 1.27 2.326371 90)
 			(layer "B.SilkS")
 			(uuid "e37f6956-0ca3-431b-9726-0c9a6e26bedc")
@@ -24308,7 +24308,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 92 "Net-(D52-A)")
+			(net 94 "Net-(D54-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "2346493e-8d8a-45f9-8916-59ff4ee1580f")
@@ -25185,10 +25185,10 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "7c177511-ad8b-4524-a6b2-7cc25bfe5780")
-		(at 259.25 119.5 90)
+		(at 50.25 138.5 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
-		(property "Reference" "D46"
+		(property "Reference" "D48"
 			(at 1.27 2.326371 90)
 			(layer "B.SilkS")
 			(uuid "f5b9f369-cfe7-425a-bb6c-b88a6fde359a")
@@ -25378,7 +25378,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 86 "Net-(D46-A)")
+			(net 88 "Net-(D48-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "260a6b67-bcbb-469d-887c-96e9d001bf30")
@@ -26683,10 +26683,10 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "93da97a8-d128-4517-b3f6-d8d156c27a90")
-		(at 145.25 138.5 90)
+		(at 183.17 138.5 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
-		(property "Reference" "D53"
+		(property "Reference" "D55"
 			(at 1.27 2.326371 90)
 			(layer "B.SilkS")
 			(uuid "4570be99-301b-47ea-af9f-85a3f5a7f911")
@@ -26876,7 +26876,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 93 "Net-(D53-A)")
+			(net 95 "Net-(D55-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "f9f4dab5-2e45-4b43-bba3-fe8c4006ffed")
@@ -26897,10 +26897,10 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "9b5eab81-f3eb-4124-bcc8-ef09e1a876e8")
-		(at 221.25 138.5 90)
+		(at 240.17 138.5 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
-		(property "Reference" "D57"
+		(property "Reference" "D58"
 			(at 1.27 2.326371 90)
 			(layer "B.SilkS")
 			(uuid "f19075f3-c051-4992-a92b-49ccce8ac375")
@@ -27090,7 +27090,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 97 "Net-(D57-A)")
+			(net 98 "Net-(D58-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "96d9db7f-25d4-49fc-8e6d-4a346e526762")
@@ -27539,10 +27539,10 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "b30ad80a-791c-44ca-bb36-b5fdbf29bf52")
-		(at 88.25 138.5 90)
+		(at 126.17 138.5 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
-		(property "Reference" "D50"
+		(property "Reference" "D52"
 			(at 1.27 2.326371 90)
 			(layer "B.SilkS")
 			(uuid "92c21c62-53b8-4aa4-8925-3de631aa43dd")
@@ -27732,7 +27732,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 90 "Net-(D50-A)")
+			(net 92 "Net-(D52-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "11b04ee5-7401-498a-ba98-2408cf6063fc")
@@ -27753,10 +27753,10 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "b445a4d7-9996-47d5-ae4f-325fba65d62c")
-		(at 183.25 138.5 90)
+		(at 221.17 138.5 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
-		(property "Reference" "D55"
+		(property "Reference" "D57"
 			(at 1.27 2.326371 90)
 			(layer "B.SilkS")
 			(uuid "41ebdb6f-32ba-4b31-883d-f8f0ad408235")
@@ -27946,7 +27946,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 95 "Net-(D55-A)")
+			(net 97 "Net-(D57-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "9b43f3fa-986f-46d4-bc70-02e917c635ee")
@@ -27967,10 +27967,10 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "b4a2ee64-0473-43f8-b2eb-49a5dfdb1eff")
-		(at 69.25 138.5 90)
+		(at 107.17 138.5 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
-		(property "Reference" "D49"
+		(property "Reference" "D51"
 			(at 1.27 2.326371 90)
 			(layer "B.SilkS")
 			(uuid "2a76d912-0f8c-4391-a765-ff5e85e163db")
@@ -28160,7 +28160,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 89 "Net-(D49-A)")
+			(net 91 "Net-(D51-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "6b446e42-ee8f-48eb-8fe4-1490d80fbc03")
@@ -29251,10 +29251,10 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "daa9412e-4fad-435d-8eca-def97545b433")
-		(at 107.25 138.5 90)
+		(at 145.17 138.5 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
-		(property "Reference" "D51"
+		(property "Reference" "D53"
 			(at 1.27 2.326371 90)
 			(layer "B.SilkS")
 			(uuid "e03da0da-c75f-418c-88d8-6849ca3d17d5")
@@ -29444,7 +29444,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 91 "Net-(D51-A)")
+			(net 93 "Net-(D53-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "e6847e4c-199f-40a9-a50d-0629a2fd5bd1")
@@ -29679,10 +29679,10 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "e50a2de9-e888-4b41-8ac6-58c57f93f4f0")
-		(at 50.25 138.5 90)
+		(at 88.17 138.5 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
-		(property "Reference" "D48"
+		(property "Reference" "D50"
 			(at 1.27 2.326371 90)
 			(layer "B.SilkS")
 			(uuid "545fde07-5d2f-4f2a-ab2b-4ebb1b13ae25")
@@ -29872,7 +29872,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 88 "Net-(D48-A)")
+			(net 90 "Net-(D50-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "66575118-483b-4ad4-bee4-3febe99cb0b8")
@@ -30107,10 +30107,10 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "e6834d3c-1183-4360-917b-7083fc32acfb")
-		(at 31.25 138.5 90)
+		(at 69.17 138.5 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
-		(property "Reference" "D47"
+		(property "Reference" "D49"
 			(at 1.27 2.326371 90)
 			(layer "B.SilkS")
 			(uuid "3adfeead-9ecf-4c4a-9620-c4d144e1a22e")
@@ -30300,7 +30300,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 87 "Net-(D47-A)")
+			(net 89 "Net-(D49-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "9b4de30f-7641-48ba-8592-53b6572e9664")
@@ -30321,10 +30321,10 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "ec34ec22-48f1-4599-b96e-07bd9d6c8497")
-		(at 164.25 138.5 90)
+		(at 202.17 138.5 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
-		(property "Reference" "D54"
+		(property "Reference" "D56"
 			(at 1.27 2.326371 90)
 			(layer "B.SilkS")
 			(uuid "9264a447-4907-4274-8cd2-3e4009823f46")
@@ -30514,7 +30514,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 94 "Net-(D54-A)")
+			(net 96 "Net-(D56-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "faf29c50-a3b0-479a-941d-c3f3ea77962e")

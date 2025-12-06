@@ -4108,7 +4108,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 66.04 137.16 0)
 			(effects
 				(font
@@ -4528,7 +4528,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 129.54 86.36 0)
 			(effects
 				(font
@@ -4596,7 +4596,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 91.44 60.96 0)
 			(effects
 				(font
@@ -4664,7 +4664,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 91.44 111.76 0)
 			(effects
 				(font
@@ -4732,7 +4732,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 154.94 86.36 0)
 			(effects
 				(font
@@ -4800,7 +4800,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 142.24 137.16 0)
 			(effects
 				(font
@@ -4868,7 +4868,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 129.54 60.96 0)
 			(effects
 				(font
@@ -5024,7 +5024,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 53.34 111.76 0)
 			(effects
 				(font
@@ -5621,7 +5621,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 104.14 137.16 0)
 			(effects
 				(font
@@ -5689,7 +5689,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 116.84 86.36 0)
 			(effects
 				(font
@@ -5757,7 +5757,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 154.94 60.96 0)
 			(effects
 				(font
@@ -5825,7 +5825,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 104.14 35.56 0)
 			(effects
 				(font
@@ -5893,7 +5893,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 40.64 137.16 0)
 			(effects
 				(font
@@ -6049,7 +6049,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 142.24 86.36 0)
 			(effects
 				(font
@@ -6117,7 +6117,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 116.84 35.56 0)
 			(effects
 				(font
@@ -6185,7 +6185,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 167.64 60.96 0)
 			(effects
 				(font
@@ -6253,7 +6253,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 66.04 35.56 0)
 			(effects
 				(font
@@ -6321,7 +6321,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 142.24 35.56 0)
 			(effects
 				(font
@@ -6741,7 +6741,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 40.64 60.96 0)
 			(effects
 				(font
@@ -6985,7 +6985,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 78.74 86.36 0)
 			(effects
 				(font
@@ -7053,7 +7053,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 154.94 35.56 0)
 			(effects
 				(font
@@ -7297,7 +7297,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 193.04 137.16 0)
 			(effects
 				(font
@@ -7541,7 +7541,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 53.34 60.96 0)
 			(effects
 				(font
@@ -7609,7 +7609,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 193.04 111.76 0)
 			(effects
 				(font
@@ -8029,7 +8029,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 116.84 60.96 0)
 			(effects
 				(font
@@ -8097,7 +8097,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 66.04 86.36 0)
 			(effects
 				(font
@@ -8342,7 +8342,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 91.44 137.16 0)
 			(effects
 				(font
@@ -8762,7 +8762,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 167.64 111.76 0)
 			(effects
 				(font
@@ -8918,7 +8918,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 142.24 111.76 0)
 			(effects
 				(font
@@ -9074,7 +9074,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 78.74 60.96 0)
 			(effects
 				(font
@@ -9230,7 +9230,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 91.44 86.36 0)
 			(effects
 				(font
@@ -9298,7 +9298,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 104.14 111.76 0)
 			(effects
 				(font
@@ -9366,7 +9366,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 180.34 111.76 0)
 			(effects
 				(font
@@ -9706,7 +9706,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 167.64 35.56 0)
 			(effects
 				(font
@@ -9863,7 +9863,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 53.34 137.16 0)
 			(effects
 				(font
@@ -10019,7 +10019,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 154.94 137.16 0)
 			(effects
 				(font
@@ -10087,7 +10087,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 91.44 35.56 0)
 			(effects
 				(font
@@ -10243,7 +10243,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 154.94 111.76 0)
 			(effects
 				(font
@@ -10665,7 +10665,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 167.64 137.16 0)
 			(effects
 				(font
@@ -10821,7 +10821,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 104.14 86.36 0)
 			(effects
 				(font
@@ -10889,7 +10889,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 116.84 111.76 0)
 			(effects
 				(font
@@ -11045,7 +11045,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 40.64 86.36 0)
 			(effects
 				(font
@@ -11201,7 +11201,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 78.74 137.16 0)
 			(effects
 				(font
@@ -11357,7 +11357,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 66.04 60.96 0)
 			(effects
 				(font
@@ -11425,7 +11425,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 40.64 35.56 0)
 			(effects
 				(font
@@ -11757,7 +11757,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 78.74 111.76 0)
 			(effects
 				(font
@@ -12001,7 +12001,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 78.74 35.56 0)
 			(effects
 				(font
@@ -12069,7 +12069,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 167.64 86.36 0)
 			(effects
 				(font
@@ -12137,7 +12137,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 180.34 137.16 0)
 			(effects
 				(font
@@ -12205,7 +12205,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 104.14 60.96 0)
 			(effects
 				(font
@@ -12361,7 +12361,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 129.54 35.56 0)
 			(effects
 				(font
@@ -12518,7 +12518,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 53.34 35.56 0)
 			(effects
 				(font
@@ -12762,7 +12762,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 116.84 137.16 0)
 			(effects
 				(font
@@ -12918,7 +12918,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 53.34 86.36 0)
 			(effects
 				(font
@@ -12986,7 +12986,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 142.24 60.96 0)
 			(effects
 				(font
@@ -13054,7 +13054,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 129.54 137.16 0)
 			(effects
 				(font
@@ -13122,7 +13122,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 129.54 111.76 0)
 			(effects
 				(font
@@ -13279,7 +13279,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 66.04 111.76 0)
 			(effects
 				(font
@@ -13347,7 +13347,7 @@
 				)
 			)
 		)
-		(property "Value" "MX_SWITCH"
+		(property "Value" "SW_MX"
 			(at 40.64 111.76 0)
 			(effects
 				(font
