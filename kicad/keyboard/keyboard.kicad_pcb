@@ -95,7 +95,7 @@
 	(net 15 "ROW1")
 	(net 16 "ROW4")
 	(net 17 "unconnected-(A1-GPIO26_ADC0-Pad31)")
-	(net 18 "unconnected-(A1-GPIO19-Pad25)")
+	(net 18 "unconnected-(A1-GPIO15-Pad20)")
 	(net 19 "unconnected-(A1-AGND-Pad33)")
 	(net 20 "COL0")
 	(net 21 "unconnected-(A1-VSYS-Pad39)")
@@ -107,7 +107,7 @@
 	(net 27 "ROW0")
 	(net 28 "COL10")
 	(net 29 "unconnected-(A1-RUN-Pad30)")
-	(net 30 "unconnected-(A1-GPIO18-Pad24)")
+	(net 30 "unconnected-(A1-GPIO13-Pad17)")
 	(net 31 "unconnected-(A1-GND-Pad13)_4")
 	(net 32 "unconnected-(A1-GPIO28_ADC2-Pad34)")
 	(net 33 "COL9")
@@ -186,7 +186,7 @@
 		(property "Reference" "SW47"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "22a8f957-5112-490b-94a9-2ff4b242721b")
+			(uuid "d452614c-7d5c-40b6-8874-0bb7a7a1e17c")
 			(effects
 				(font
 					(size 1 1)
@@ -197,7 +197,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "ef1b4854-2f8e-4156-832f-e697fa4038cd")
+			(uuid "f607e0a7-74a5-47c9-bd29-f3cb6933ece3")
 			(effects
 				(font
 					(size 1 1)
@@ -210,7 +210,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ceb1d5ce-2b94-4cc5-9e98-dba2f944a14a")
+			(uuid "af956d3c-d30b-4ac6-b39c-094a3b0d19b1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -223,7 +223,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5b38e57b-3deb-4035-9f4f-4dcf00275fec")
+			(uuid "74fa2c72-9ce7-4b25-9485-b1da78df0e27")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -471,7 +471,7 @@
 		(property "Reference" "SW39"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "eac66528-2276-48e6-8f62-acc151731a43")
+			(uuid "7d4ac7f6-eb67-4942-bcf7-09e35dd713e0")
 			(effects
 				(font
 					(size 1 1)
@@ -482,7 +482,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "9115792a-768d-4ca5-8e22-13089ce0e657")
+			(uuid "0171ea7a-eef6-44a9-a67c-8150680011df")
 			(effects
 				(font
 					(size 1 1)
@@ -495,7 +495,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "94253201-4497-4d7a-b3b6-87ba48083721")
+			(uuid "22398702-b39c-4351-a44a-a78985304417")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -508,7 +508,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a3a744a0-2dfb-4c74-957c-38de0aba9c00")
+			(uuid "41fe852e-0ae7-473a-8b98-b45fa259b46f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -756,7 +756,7 @@
 		(property "Reference" "SW29"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "bff0d2b3-0659-4249-830e-080594a5c855")
+			(uuid "7d3865a4-4d19-44c5-beea-e784a784d6a4")
 			(effects
 				(font
 					(size 1 1)
@@ -767,7 +767,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "bfebdadf-e136-4b33-8c3d-8c9b3750c1f4")
+			(uuid "51c0cf37-7c4f-4ddd-983f-91bb21d045c9")
 			(effects
 				(font
 					(size 1 1)
@@ -780,7 +780,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "151bf10b-6fde-4be6-82b0-4b433cd0b30d")
+			(uuid "7ec722f7-f5d0-46e9-87bf-12da2e7e3af4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -793,7 +793,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4ad42409-80ed-4ba3-9838-93a4034b9564")
+			(uuid "ac52d6c9-6955-47a0-b318-405302676cd6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1035,14 +1035,14 @@
 	(footprint "Module:RaspberryPi_Pico_Common_THT"
 		(layer "F.Cu")
 		(uuid "07effbbf-388a-4978-8f08-3dfad421b7fb")
-		(at 248.5 54.64)
+		(at 248.86 54.75)
 		(descr "Raspberry Pi Pico common (Pico & Pico W) through-hole footprint, supports Raspberry Pi Pico 2, default socketed model has height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf")
 		(tags "module usb pcb antenna")
 		(property "Reference" "A1"
-			(at 20.6375 48.895 0)
+			(at 8.89 25.1 90)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "c5446531-db53-40df-8565-b6fca42ae499")
+			(uuid "b0f3dbbe-a8f2-4707-942f-4ebc4ce229d4")
 			(effects
 				(font
 					(size 1 1)
@@ -1055,7 +1055,7 @@
 			(at 8.89 52.07 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "d1a170e9-f0ec-4f84-8f1b-f6857189612f")
+			(uuid "85405b5d-35fa-45e8-997e-c23cc4c083fc")
 			(effects
 				(font
 					(size 1 1)
@@ -1067,7 +1067,7 @@
 			(at 8.89 24.13 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4dc4728a-9b7c-451c-8dba-c8adc93821b6")
+			(uuid "b6d1e62c-fafd-4352-8059-87d454430e39")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1079,7 +1079,7 @@
 			(at 8.89 24.13 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0d4133df-1172-4918-bebf-f2f159bbc225")
+			(uuid "cadf3527-86a8-4096-b846-52bf88e92755")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1806,7 +1806,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 5 "COL2")
+			(net 16 "ROW4")
 			(pinfunction "GPIO2")
 			(pintype "bidirectional")
 			(uuid "0b7ad91b-259f-401b-9620-770a3a8bf896")
@@ -1817,7 +1817,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 23 "COL3")
+			(net 5 "COL2")
 			(pinfunction "GPIO3")
 			(pintype "bidirectional")
 			(uuid "6d95bc7d-c38e-46ff-a19f-7e582cc181d3")
@@ -1828,7 +1828,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 3 "COL4")
+			(net 23 "COL3")
 			(pinfunction "GPIO4")
 			(pintype "bidirectional")
 			(uuid "083b7fb2-35f1-4275-af97-c3155234f639")
@@ -1839,7 +1839,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 40 "COL5")
+			(net 3 "COL4")
 			(pinfunction "GPIO5")
 			(pintype "bidirectional")
 			(uuid "fc23d1e6-394d-4e16-9b28-4134e4699c8f")
@@ -1886,7 +1886,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 36 "COL6")
+			(net 40 "COL5")
 			(pinfunction "GPIO6")
 			(pintype "bidirectional")
 			(uuid "e9bf95d5-fdcb-4c66-8242-686a96df7af9")
@@ -1897,7 +1897,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 6 "COL7")
+			(net 36 "COL6")
 			(pinfunction "GPIO7")
 			(pintype "bidirectional")
 			(uuid "0e92e700-5cc2-44e3-995b-5e2dfc16b793")
@@ -1908,7 +1908,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 10 "COL8")
+			(net 2 "ROW3")
 			(pinfunction "GPIO8")
 			(pintype "bidirectional")
 			(uuid "1fc6434b-d1ac-49fa-ac47-540d33638322")
@@ -1919,7 +1919,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 33 "COL9")
+			(net 6 "COL7")
 			(pinfunction "GPIO9")
 			(pintype "bidirectional")
 			(uuid "cb9c344d-fb84-4210-8ab0-f7ec9034b6bb")
@@ -1966,7 +1966,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 28 "COL10")
+			(net 10 "COL8")
 			(pinfunction "GPIO10")
 			(pintype "bidirectional")
 			(uuid "b0ce472d-34f1-4021-8950-9c5197473371")
@@ -1977,7 +1977,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 4 "COL12")
+			(net 33 "COL9")
 			(pinfunction "GPIO11")
 			(pintype "bidirectional")
 			(uuid "0b727228-b18a-418a-8861-a0eb1e045e51")
@@ -1988,7 +1988,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 25 "COL11")
+			(net 28 "COL10")
 			(pinfunction "GPIO12")
 			(pintype "bidirectional")
 			(uuid "a6915708-425d-4fe2-a2b1-a6de7c4606c9")
@@ -1999,9 +1999,9 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 27 "ROW0")
+			(net 30 "unconnected-(A1-GPIO13-Pad17)")
 			(pinfunction "GPIO13")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "aeea7400-bf8d-4e9a-a010-7e3e281fafc7")
 		)
 		(pad "18" thru_hole custom
@@ -2046,7 +2046,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 15 "ROW1")
+			(net 8 "ROW2")
 			(pinfunction "GPIO14")
 			(pintype "bidirectional")
 			(uuid "33fe3d4a-84b8-42d1-9804-46b2b79f2492")
@@ -2057,9 +2057,9 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 8 "ROW2")
+			(net 18 "unconnected-(A1-GPIO15-Pad20)")
 			(pinfunction "GPIO15")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "194e1afe-6613-4a48-928e-abe2fbb8d497")
 		)
 		(pad "21" thru_hole circle
@@ -2068,7 +2068,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 2 "ROW3")
+			(net 27 "ROW0")
 			(pinfunction "GPIO16")
 			(pintype "bidirectional")
 			(uuid "0462c98d-1d92-4abc-b503-72575f64c354")
@@ -2079,7 +2079,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 16 "ROW4")
+			(net 15 "ROW1")
 			(pinfunction "GPIO17")
 			(pintype "bidirectional")
 			(uuid "3412b0ff-af6a-4984-9486-1e1bf846cea4")
@@ -2126,9 +2126,9 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 30 "unconnected-(A1-GPIO18-Pad24)")
+			(net 25 "COL11")
 			(pinfunction "GPIO18")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "bc71b43a-cc23-441e-ab25-e9c4b568a504")
 		)
 		(pad "25" thru_hole circle
@@ -2137,9 +2137,9 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 18 "unconnected-(A1-GPIO19-Pad25)")
+			(net 4 "COL12")
 			(pinfunction "GPIO19")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "3d531503-7eaa-435d-aee9-655dac6ff7d7")
 		)
 		(pad "26" thru_hole circle
@@ -2411,8 +2411,8 @@
 			)
 			(polygon
 				(pts
-					(xy 254.99 103.759895) (xy 250.29 100.109895) (xy 250.29 95.77) (xy 264.49 95.77) (xy 264.49 100.109895)
-					(xy 259.79 103.759895) (xy 259.79 104.77) (xy 254.99 104.77)
+					(xy 255.35 103.869895) (xy 250.65 100.219895) (xy 250.65 95.88) (xy 264.85 95.88) (xy 264.85 100.219895)
+					(xy 260.15 103.869895) (xy 260.15 104.88) (xy 255.35 104.88)
 				)
 			)
 		)
@@ -2445,8 +2445,8 @@
 			)
 			(polygon
 				(pts
-					(xy 251.64 51.07) (xy 253.45 51.07) (xy 253.45 51.47) (xy 261.33 51.47) (xy 261.33 51.07) (xy 263.14 51.07)
-					(xy 263.14 31.57) (xy 251.64 31.57)
+					(xy 252 51.18) (xy 253.81 51.18) (xy 253.81 51.58) (xy 261.69 51.58) (xy 261.69 51.18) (xy 263.5 51.18)
+					(xy 263.5 31.68) (xy 252 31.68)
 				)
 			)
 		)
@@ -2597,7 +2597,7 @@
 		(property "Reference" "SW46"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "b8fec8b3-0253-4c7b-beed-15afe8d135f1")
+			(uuid "998d7ce4-7632-49a1-b630-0259410537e6")
 			(effects
 				(font
 					(size 1 1)
@@ -2608,7 +2608,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "22e5d92c-3ddb-4edd-99ee-f704e3a81f81")
+			(uuid "4bdfb30c-33c2-48d3-b4c3-9f5bf939a9bd")
 			(effects
 				(font
 					(size 1 1)
@@ -2621,7 +2621,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "16a1e27a-5d22-401a-b84c-6f0bd190b8bd")
+			(uuid "aa8e5493-71e0-40f4-b764-926a2bb6fd89")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2634,7 +2634,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2b6f2964-b5e7-4145-9ded-beae9402dd01")
+			(uuid "05acb5d1-6d17-4a57-b5c5-e064dac286c1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2882,7 +2882,7 @@
 		(property "Reference" "SW58"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "ebaf95de-c484-46cc-aeb6-2c934c3deaf2")
+			(uuid "5d53102d-a884-4847-847f-4000ce289516")
 			(effects
 				(font
 					(size 1 1)
@@ -2893,7 +2893,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "6ede493e-ec3e-4590-932e-b1b47c32ce09")
+			(uuid "83507659-5361-4c04-ae1f-49f5b9757cb2")
 			(effects
 				(font
 					(size 1 1)
@@ -2906,7 +2906,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6ea9456d-fd8f-4ff8-b048-e06cd28eb3a8")
+			(uuid "55162ce9-11a4-4eba-9816-8807977ed6bd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2919,7 +2919,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0aea8ea6-793c-4e76-a30f-a5fc25701293")
+			(uuid "faa4f7a7-6671-4d0a-b21d-ecb48c0ba787")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3165,9 +3165,9 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW11"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.SilkS")
-			(uuid "6fb45dc1-403e-4087-8493-722d7eb761a6")
+			(uuid "7fbb20ae-20c6-4fdb-8279-c2a5a2ee147d")
 			(effects
 				(font
 					(size 1 1)
@@ -3178,7 +3178,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "3d619a09-d4c6-4902-93c1-15709e3efad2")
+			(uuid "b8399bee-f757-42ec-8061-abb50b9cda19")
 			(effects
 				(font
 					(size 1 1)
@@ -3191,7 +3191,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8fc7506f-ffd2-428e-a0a7-256d0aa1a968")
+			(uuid "405ae389-e9b8-4bd2-afd3-bfceec95e529")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3204,7 +3204,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "80b44ea1-203b-4cad-b16d-ee47d32389b9")
+			(uuid "21d39886-272d-4968-ad74-8589d6487ce2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3377,7 +3377,7 @@
 			(uuid "5fb3ca85-1827-4e4c-aa5b-5118e117ddfb")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.Fab")
 			(uuid "7656756c-2deb-4cc8-9f3d-420e40040297")
 			(effects
@@ -3452,7 +3452,7 @@
 		(property "Reference" "SW43"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "448bcc29-5bf2-4431-b00d-f81f3b6b3dc3")
+			(uuid "559a464c-48c3-4e67-ab37-0bf8e581f7dc")
 			(effects
 				(font
 					(size 1 1)
@@ -3463,7 +3463,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "2ac1d651-4a2c-4563-8fb9-fc6d0cde3991")
+			(uuid "633a9045-7e25-493e-8c83-09ae3a2104ef")
 			(effects
 				(font
 					(size 1 1)
@@ -3476,7 +3476,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f5aad53a-6d29-41f8-b3e5-15cc2c79d133")
+			(uuid "74d29858-ffb7-4d6e-8a6a-083ffd363c06")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3489,7 +3489,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1e45526a-6873-47ae-9a78-d1949c7203e8")
+			(uuid "9842869b-2d75-4ce3-8c6d-060e6635cb94")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3737,7 +3737,7 @@
 		(property "Reference" "SW26"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "bc9e9f39-7c25-4dd9-8734-bb8adc0f9d4e")
+			(uuid "6ab7aaf8-b9a4-4356-8271-bdbd9835f024")
 			(effects
 				(font
 					(size 1 1)
@@ -3748,7 +3748,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "2a9e9c84-6d1c-4d58-b9b9-701be8819d5d")
+			(uuid "1595a854-c6e8-4922-b77c-bdb7529a1e81")
 			(effects
 				(font
 					(size 1 1)
@@ -3761,7 +3761,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a54f932e-5924-4697-956d-ec6765c1df01")
+			(uuid "4427f12d-3303-40a1-bf9c-4b3fe2b24522")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3774,7 +3774,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c563ebb5-d417-457b-ba62-1f11eaa2f481")
+			(uuid "69474435-9767-4a4e-977a-f5bc7b0fd775")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4022,7 +4022,7 @@
 		(property "Reference" "SW25"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "cbc57630-7a72-43ad-a256-2f3ce7983fc0")
+			(uuid "2310b306-6980-4060-b2da-9c6b61f2d2f8")
 			(effects
 				(font
 					(size 1 1)
@@ -4033,7 +4033,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "4a066f99-9123-437c-a615-4ab61c2c70a1")
+			(uuid "84134ef6-a501-4b20-8474-335f98e60286")
 			(effects
 				(font
 					(size 1 1)
@@ -4046,7 +4046,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6f0de192-0685-4841-99e9-77e764243fbe")
+			(uuid "d710aa2e-c20f-46c6-b741-96b303a28839")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4059,7 +4059,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2e583721-2d9c-4e2d-b122-5155a163954d")
+			(uuid "4814d701-1243-4296-b1d2-ebf0cd5817ae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4307,7 +4307,7 @@
 		(property "Reference" "SW24"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "2fb70ce5-cf59-46a7-a04d-228a1b9e95cf")
+			(uuid "866fc7d7-155f-4984-b334-191bc2fdc2e4")
 			(effects
 				(font
 					(size 1 1)
@@ -4318,7 +4318,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "21f844bd-e7af-45d3-be32-e3cc4b1c6f80")
+			(uuid "dbefb5c6-975d-419a-9d12-dc7707e68fe2")
 			(effects
 				(font
 					(size 1 1)
@@ -4331,7 +4331,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "597c75f8-4368-46a8-9075-96fe4dff873c")
+			(uuid "0d4b4e7d-d4b5-4eba-a91b-ddec4ebd791c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4344,7 +4344,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "352f2b05-22fc-46f2-aee9-a5a4e398d182")
+			(uuid "d3c8a8d8-2aff-4eac-8421-8846638d2747")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4592,7 +4592,7 @@
 		(property "Reference" "SW33"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "1930c21b-32fc-4530-845d-4ec5886bb23f")
+			(uuid "e7070d27-9f38-4171-baff-e16356145e01")
 			(effects
 				(font
 					(size 1 1)
@@ -4603,7 +4603,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "d1220ca8-3101-4f11-825e-3399b833b761")
+			(uuid "4351f2f3-c7c0-4c0e-b6a8-33dc71cfcd72")
 			(effects
 				(font
 					(size 1 1)
@@ -4616,7 +4616,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b319d256-3757-4435-8d65-75e042086b58")
+			(uuid "1743863d-fae3-4031-995f-fbe621fd352c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4629,7 +4629,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "15b433ba-f22d-4a83-b621-69e6e90f21c0")
+			(uuid "f47b8519-f17d-4781-8e93-abd7b8e1dc6d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4877,7 +4877,7 @@
 		(property "Reference" "SW37"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "e0c64519-9a39-484e-9a3b-cd12536fd746")
+			(uuid "6312d78d-a5d8-4b4d-a85c-81d1d80a6d56")
 			(effects
 				(font
 					(size 1 1)
@@ -4888,7 +4888,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "dcd1b9fe-0148-4924-b8b3-a0de85eb2e9c")
+			(uuid "f093e7f0-a05b-421e-8c4e-158eda5c64fd")
 			(effects
 				(font
 					(size 1 1)
@@ -4901,7 +4901,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "220c90be-ee32-4e83-817d-5d3f2fb6eb5c")
+			(uuid "1c83833c-bf5a-4950-afda-f9105179e9b6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4914,7 +4914,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "24655465-18f9-4855-803a-3dd5aa37da8e")
+			(uuid "b6e0cb5b-2b94-4ea0-b0f3-f96881d7f3f4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5162,7 +5162,7 @@
 		(property "Reference" "SW14"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "58d1c4d8-7d28-4836-9a4a-81071fa5da43")
+			(uuid "da86276f-4468-4957-bac3-9e9bc65d0a89")
 			(effects
 				(font
 					(size 1 1)
@@ -5173,7 +5173,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "928a69fe-c785-419e-a078-262b73de49f1")
+			(uuid "ab9526e8-ac29-4384-8091-08c5d73f2070")
 			(effects
 				(font
 					(size 1 1)
@@ -5186,7 +5186,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e1383f09-23a7-4f93-933b-05d746b3e34c")
+			(uuid "4ee76e7b-ce90-48fa-af3c-641ec3687439")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5199,7 +5199,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "443d9438-0f20-416c-a670-65be56bbe080")
+			(uuid "33054c9a-3f13-4076-b811-ee8fea792558")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5447,7 +5447,7 @@
 		(property "Reference" "SW31"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "19173c65-5efb-4a1f-9fb3-6ebf606e3f1f")
+			(uuid "9c052cf5-3ae3-4b32-b345-273b89b36616")
 			(effects
 				(font
 					(size 1 1)
@@ -5458,7 +5458,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "62a5de57-f5ad-404d-ae7b-0e8be5e96db5")
+			(uuid "bc619ac2-5d67-47f3-9211-00a3a992a9c2")
 			(effects
 				(font
 					(size 1 1)
@@ -5471,7 +5471,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "de46ae8b-07d6-4568-a177-7b52f20afe41")
+			(uuid "a70f040b-721a-4d5e-a843-673ffe04fc73")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5484,7 +5484,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a1e0ff81-3838-45ff-b3c5-b907c740d5d0")
+			(uuid "6c6c9582-a9a5-4365-80e1-cb55e945ce4b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5732,7 +5732,7 @@
 		(property "Reference" "SW34"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "d6456269-31a3-4f8b-bc8f-7140ef788f68")
+			(uuid "0bf7a6ca-ba1b-4dbc-a0eb-f00b75f454af")
 			(effects
 				(font
 					(size 1 1)
@@ -5743,7 +5743,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "cb9cd1ee-e531-469d-8038-485ed340f620")
+			(uuid "c4dae4da-e473-4c54-a090-2d9feb26d774")
 			(effects
 				(font
 					(size 1 1)
@@ -5756,7 +5756,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6ef40783-026e-4c1f-811d-edc0f36ee5d6")
+			(uuid "c3acd6dc-492d-4862-9311-4c704298b756")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5769,7 +5769,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c5989f0b-bba2-4aa0-9d7e-0aa3aa9f3de9")
+			(uuid "bd894190-607b-4461-b982-44c52212e637")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6017,7 +6017,7 @@
 		(property "Reference" "SW42"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "b069035e-c63d-4f26-9e82-dc8d0fc4f512")
+			(uuid "df4d1a50-55e1-4e2b-8670-5df20becea04")
 			(effects
 				(font
 					(size 1 1)
@@ -6028,7 +6028,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "bd25cad7-16f6-4d70-8cfc-fd7bc7a7adf9")
+			(uuid "e9bdb44f-1d96-482d-992a-ffd23d2bc842")
 			(effects
 				(font
 					(size 1 1)
@@ -6041,7 +6041,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9b3a20aa-01e1-418d-b5aa-c1a2092ad688")
+			(uuid "1e95d340-3b1e-461b-ba59-cee93e8b854c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6054,7 +6054,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0cb85c97-29eb-446c-b93f-1fbb9265dc40")
+			(uuid "d10fbecd-6e5a-4b34-8d73-616df34a0df9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6302,7 +6302,7 @@
 		(property "Reference" "SW32"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "c58243ed-4d35-45a4-adfa-8ac378f50c4c")
+			(uuid "21a9ac3e-b06d-4c2e-997a-3557731563fa")
 			(effects
 				(font
 					(size 1 1)
@@ -6313,7 +6313,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "f57a20e4-3100-44f9-9396-3ca3ff2a2e45")
+			(uuid "aabaab10-dcf8-435c-89d2-2a0f3edd8c38")
 			(effects
 				(font
 					(size 1 1)
@@ -6326,7 +6326,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4484e504-7ffd-4251-b041-b2c23c4e890b")
+			(uuid "48ec49da-d734-47bf-b5e7-60835f5aa40f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6339,7 +6339,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2cc117a8-95c0-486a-86ea-2a11955f47a5")
+			(uuid "25e810e3-dfbb-4af8-b6c6-09f1b728afd8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6587,7 +6587,7 @@
 		(property "Reference" "SW40"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "515b70e5-3f4a-403e-bbfa-50a408dfac07")
+			(uuid "606ba179-9d15-4a67-bf20-8364b916c83f")
 			(effects
 				(font
 					(size 1 1)
@@ -6598,7 +6598,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "ed900ca9-8f8c-4b2f-b13d-1f69751b0057")
+			(uuid "0b2bb3e6-de87-4362-9f8a-57edf71285db")
 			(effects
 				(font
 					(size 1 1)
@@ -6611,7 +6611,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f780551d-f6cc-451a-88c9-d52b524d0657")
+			(uuid "5d9974e1-25dc-4e26-9510-997f11d73059")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6624,7 +6624,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cf5d94f3-ee63-4202-9f50-bcccf24e0181")
+			(uuid "386e344a-9c97-449d-bed5-9332368642f0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6870,9 +6870,9 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW4"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.SilkS")
-			(uuid "4d1f88d6-a5dd-45ec-9ce3-16f6a9875afe")
+			(uuid "5e5dfabb-b22d-4416-a8b1-c712410e9e60")
 			(effects
 				(font
 					(size 1 1)
@@ -6883,7 +6883,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "41a19b46-de54-4c26-a501-ea0a86fa23f1")
+			(uuid "340a3083-1539-4291-931c-d987a03b6fda")
 			(effects
 				(font
 					(size 1 1)
@@ -6896,7 +6896,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0f11a306-ac19-42f2-84a1-b481700cba75")
+			(uuid "6c508969-4027-4df9-a97c-b714992adebd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6909,7 +6909,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "caeaf981-6fcb-4020-b336-06d70d9ff123")
+			(uuid "550fe2a2-40f4-427e-8ec4-3fe3596ac1b0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7082,7 +7082,7 @@
 			(uuid "f1a0daac-3279-4814-b71e-d889ff562427")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.Fab")
 			(uuid "78a45612-290c-4de5-a97a-63fac1574949")
 			(effects
@@ -7157,7 +7157,7 @@
 		(property "Reference" "SW52"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "c774e817-6fc6-491a-936d-9d09406eac04")
+			(uuid "9b7add02-39b1-4bc1-b714-ba9f5ca7d9ba")
 			(effects
 				(font
 					(size 1 1)
@@ -7168,7 +7168,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "56f015f7-b809-43c8-b3f8-ede68e8aabb8")
+			(uuid "7521697e-0772-4533-9b70-2abe33baa625")
 			(effects
 				(font
 					(size 1 1)
@@ -7181,7 +7181,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ecc839c3-d5c7-4ba1-92bc-a5b357558ea9")
+			(uuid "a4d83389-30b2-41c4-965f-450eb849922d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7194,7 +7194,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "287feabc-373b-4715-8195-b27d984a091b")
+			(uuid "4c163017-d62d-4bed-a09d-c67c935614c2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7442,7 +7442,7 @@
 		(property "Reference" "SW27"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "28964416-781a-495a-a527-2334ce6b6d06")
+			(uuid "453f6e3d-a4e9-4402-84c1-fa6893109856")
 			(effects
 				(font
 					(size 1 1)
@@ -7453,7 +7453,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "4b427cbd-243a-482d-8389-de537cd89183")
+			(uuid "5209f253-4a61-48b5-99b7-7da5eac22af3")
 			(effects
 				(font
 					(size 1 1)
@@ -7466,7 +7466,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "62bdff22-a64a-4ec1-9a89-41ef684769ab")
+			(uuid "786eeda9-4d80-4b05-9d90-25c1d4450ed8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7479,7 +7479,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7a2afc60-84fd-41a5-9d54-85ab4c49b6cb")
+			(uuid "3ae39601-a5b4-40b3-bde7-765a0178f5a4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7727,7 +7727,7 @@
 		(property "Reference" "SW38"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "3e67661b-23ab-47c3-8ba9-ee0973d81121")
+			(uuid "604c10ea-7f7f-4dc8-aa81-158de1921e00")
 			(effects
 				(font
 					(size 1 1)
@@ -7738,7 +7738,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "081dc484-e83f-40bf-bc4c-125c54239a71")
+			(uuid "89ba081e-df6f-4941-b236-1d5551d4143c")
 			(effects
 				(font
 					(size 1 1)
@@ -7751,7 +7751,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3d63fc85-bb8e-46a3-9936-ccb0f9a7bb00")
+			(uuid "48ec5c8d-10c1-45d3-a7c6-af2da68836e3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7764,7 +7764,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "78322d73-81f6-4ffd-8f7d-ac01f3eb12b2")
+			(uuid "5c230b11-7cc1-49e5-8fcc-7bbba64df111")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8012,7 +8012,7 @@
 		(property "Reference" "SW36"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "31e4cfaf-249d-492d-9fb4-cee969a46c06")
+			(uuid "56b89d29-667b-43e4-a336-ec0437eb2acd")
 			(effects
 				(font
 					(size 1 1)
@@ -8023,7 +8023,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "0bee8b6a-b598-476c-a825-1c93fb1e8d22")
+			(uuid "e2f7855c-2ffb-4609-bc86-1fdaa8f4e4de")
 			(effects
 				(font
 					(size 1 1)
@@ -8036,7 +8036,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c5b0038a-5b9b-4e38-9bc2-e7751b2f208b")
+			(uuid "f7a0a2ad-8267-45b5-9137-ab66a583ebdc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8049,7 +8049,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8f91f717-5865-45ca-bc1f-0ae0ba608ec8")
+			(uuid "116576a6-988f-4f5a-ac8a-d95140a21a90")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8297,7 +8297,7 @@
 		(property "Reference" "SW16"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "0af5849c-1ca2-4f8b-ba80-8196991da9f2")
+			(uuid "b24ae46e-f3b4-4c9b-bd7a-cab950095d3f")
 			(effects
 				(font
 					(size 1 1)
@@ -8308,7 +8308,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "857ce578-e1e3-45f9-8cbc-7065bf3653eb")
+			(uuid "067cbab8-2db9-40b5-bce0-f3b7e39054d1")
 			(effects
 				(font
 					(size 1 1)
@@ -8321,7 +8321,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b3758be8-9e79-42e1-aa0b-0176e5b37156")
+			(uuid "b8d03164-b070-40d1-bd0b-76bc76517464")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8334,7 +8334,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4d561728-52f2-4031-9270-17e931137202")
+			(uuid "465e5928-d3cc-4729-8472-eff6abaaf270")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8582,7 +8582,7 @@
 		(property "Reference" "SW20"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "ee08837d-cf81-493b-bb15-be66dc48784e")
+			(uuid "e7b3fb99-fadd-450f-b9bb-d90a6e601d39")
 			(effects
 				(font
 					(size 1 1)
@@ -8593,7 +8593,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "4472dfaf-4998-4d21-8719-a31536a7367a")
+			(uuid "370e4b49-61d9-4b73-bb68-15cb89bcf3bc")
 			(effects
 				(font
 					(size 1 1)
@@ -8606,7 +8606,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a2c6e3fb-ac37-443b-aa14-9703085fc336")
+			(uuid "446d0e77-fb03-42d0-bc63-07d9df63573c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8619,7 +8619,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cac68e87-88bf-4dbc-bf18-a21a9642eb53")
+			(uuid "3ff544a4-b5c9-4256-ae84-230d58ed6a1f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8867,7 +8867,7 @@
 		(property "Reference" "SW48"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "21f18364-e57a-4ca0-8a9b-e078b045dcec")
+			(uuid "2c3768e5-6907-4f8d-b711-d2e52881c379")
 			(effects
 				(font
 					(size 1 1)
@@ -8878,7 +8878,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "866f66f7-58bf-4b8e-8247-add9cda177ba")
+			(uuid "78522298-ca03-4645-808a-33c4cd50d6a6")
 			(effects
 				(font
 					(size 1 1)
@@ -8891,7 +8891,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c53fae85-ad02-447a-a7d8-da17ab2c26ab")
+			(uuid "a5837343-4e17-43a7-92c4-8478d321d4d3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8904,7 +8904,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0dacd3de-f5ac-40bf-bfcf-5cf59f5ddfde")
+			(uuid "9e183e95-f451-487c-9879-b54984a974b6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9150,9 +9150,9 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW3"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.SilkS")
-			(uuid "a9c5add5-7bb7-409d-904c-881d427ff4cb")
+			(uuid "c74a2cb9-2e3f-472b-bf2b-155701574a0c")
 			(effects
 				(font
 					(size 1 1)
@@ -9163,7 +9163,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "66306cf0-abaa-4589-b721-d8360e19b14f")
+			(uuid "a0f83440-773f-4139-9979-453e0ac74430")
 			(effects
 				(font
 					(size 1 1)
@@ -9176,7 +9176,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8c65ce92-0012-4930-b0ed-4067e8225a37")
+			(uuid "ffc45c62-f112-4a44-8dfb-ae9417c4bd11")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9189,7 +9189,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b8ba9691-1632-45bd-a743-3c888724c043")
+			(uuid "8bb30444-71f2-478e-b933-fe57326bb1a9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9362,7 +9362,7 @@
 			(uuid "3258a3be-aff6-4a03-934c-faff0df9762a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.Fab")
 			(uuid "dab0a3ae-8bc3-46b9-899e-5e4f7854e794")
 			(effects
@@ -9435,9 +9435,9 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW10"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.SilkS")
-			(uuid "9e19d5ce-29be-47d2-9aa7-2c56bb67c9d9")
+			(uuid "63c39025-25ef-4c10-8b90-bbf18a77e7d7")
 			(effects
 				(font
 					(size 1 1)
@@ -9448,7 +9448,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "3d7fc390-aa45-4beb-be84-0fb09f4062b0")
+			(uuid "387ad919-2ee1-4a52-949d-950777f72731")
 			(effects
 				(font
 					(size 1 1)
@@ -9461,7 +9461,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a136b043-af10-44ed-bf64-9a1812edf830")
+			(uuid "fcbd6b7d-a643-4aa5-9c73-4494eaae9ac3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9474,7 +9474,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "efa404c1-3d74-40dd-a3d4-9a1dff80bd48")
+			(uuid "eb507511-a37f-4988-a58f-f88c41e1351d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9647,7 +9647,7 @@
 			(uuid "1bfafdfa-bc0c-4559-b43d-023a5509b6ca")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.Fab")
 			(uuid "cf4d5580-3869-491c-b1f6-b158591c00b6")
 			(effects
@@ -9722,7 +9722,7 @@
 		(property "Reference" "SW12"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "bee3d710-847e-4770-aa1a-b6941bdded40")
+			(uuid "47922818-2253-4adc-a36f-dd058630f76b")
 			(effects
 				(font
 					(size 1 1)
@@ -9733,7 +9733,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "ee86ac11-c8d6-491d-bfb2-0784c595defa")
+			(uuid "882d92c3-54a7-4278-adac-a8df40c48262")
 			(effects
 				(font
 					(size 1 1)
@@ -9746,7 +9746,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c13a738f-84b0-4b31-945d-6b0e1d866718")
+			(uuid "24876249-0b15-4a96-adda-957ee5750706")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9759,7 +9759,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3cdeca12-4d8a-41e4-a083-caf66e8492dc")
+			(uuid "a4e49a78-3682-4e26-aa65-6f7e62f49c93")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10005,9 +10005,9 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW9"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.SilkS")
-			(uuid "c77b09cc-05c7-4b5c-9fd6-81d1a046415d")
+			(uuid "986d3fd1-6d10-4533-a0d8-76456b8c25e1")
 			(effects
 				(font
 					(size 1 1)
@@ -10018,7 +10018,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "8432a69a-930a-4940-9e5b-c5955c87ce1c")
+			(uuid "0686366d-6fb6-42e0-883e-e118f979cd72")
 			(effects
 				(font
 					(size 1 1)
@@ -10031,7 +10031,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9d54388b-bace-4ae7-aa1c-db7aeb2edba7")
+			(uuid "891e4e89-bb27-45c6-880a-454969eb0868")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10044,7 +10044,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6c0658fe-d2cc-444a-a3c5-fa2b681dc24b")
+			(uuid "9eef58df-6c8d-4ba3-b406-83abd501b885")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10217,7 +10217,7 @@
 			(uuid "74d371e9-0afd-440c-ae57-60f2d86a3e55")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.Fab")
 			(uuid "6da6da85-2e12-4101-bc15-d302b672cd8c")
 			(effects
@@ -10292,7 +10292,7 @@
 		(property "Reference" "SW28"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "58673ec7-79a5-499b-a7da-97bd050959eb")
+			(uuid "0ce7840e-0962-4da2-bc44-e753ab09168b")
 			(effects
 				(font
 					(size 1 1)
@@ -10303,7 +10303,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "c3451932-5764-43df-a9f8-83d6aa0cf9d1")
+			(uuid "19cd5ec9-395e-4692-a59d-0d8c796e7915")
 			(effects
 				(font
 					(size 1 1)
@@ -10316,7 +10316,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7505b23e-87ae-4dbd-bd36-4d1d8c140626")
+			(uuid "3a918a62-9238-42b5-aaea-42e732bf7e6c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10329,7 +10329,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a3f0cb41-1b9f-49c0-94d6-80a1da77584e")
+			(uuid "185a5997-1a6a-4e0a-b40a-497d2a3c534e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10577,7 +10577,7 @@
 		(property "Reference" "SW53"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "13d31bce-7aa2-4ca1-b70e-8cd5e91d73a4")
+			(uuid "5ee22db1-c7f8-4db6-97ab-dafcc9f937e1")
 			(effects
 				(font
 					(size 1 1)
@@ -10588,7 +10588,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "58329e2e-87c4-4fa4-bee2-1a109c5c06ec")
+			(uuid "31c9b0be-b434-480d-858b-29889d2929c9")
 			(effects
 				(font
 					(size 1 1)
@@ -10601,7 +10601,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "508da164-5943-415c-a56e-c9a09f9ec0a8")
+			(uuid "8c9157dc-7698-4166-9c7d-f97e35518170")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10614,7 +10614,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "60fb45ba-166e-4de1-a169-b8df646cc1ff")
+			(uuid "31d8228f-da24-479e-8c60-9f371bac63e0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10862,7 +10862,7 @@
 		(property "Reference" "SW17"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "5daf243c-aa9d-4b60-a19d-f38342e443f5")
+			(uuid "73245f5f-f48a-4bb1-9da8-26e5ad523933")
 			(effects
 				(font
 					(size 1 1)
@@ -10873,7 +10873,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "90de67bb-a6ff-4c5b-9865-a7481d794ba8")
+			(uuid "2a4bf7b3-b9f2-4c21-9394-de1fc7449d33")
 			(effects
 				(font
 					(size 1 1)
@@ -10886,7 +10886,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a881b8bb-89c3-40d7-8770-3d50871f799c")
+			(uuid "09f23728-8621-40d4-896d-cb38f0b37f6f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10899,7 +10899,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a634e339-3402-45c2-8cbf-6de27aaaf576")
+			(uuid "7e80ae2f-db88-42e2-be8d-f8253ca87e55")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11145,9 +11145,9 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW8"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.SilkS")
-			(uuid "7661df5b-7945-42d1-9684-f58304d85f0a")
+			(uuid "9b7adc73-88be-4b45-a939-e33cee0b35e8")
 			(effects
 				(font
 					(size 1 1)
@@ -11158,7 +11158,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "0ca1c406-bdd2-4e73-b218-e35464335305")
+			(uuid "831b52b8-aa76-4fb2-b267-f9d1def5e2f6")
 			(effects
 				(font
 					(size 1 1)
@@ -11171,7 +11171,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3ce2185a-71e6-4129-a628-9be43a7f72ba")
+			(uuid "4459e5a2-550e-4acf-b96f-5dfd09aa2cff")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11184,7 +11184,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "95c4e35c-5121-4847-951b-211af30ee4ea")
+			(uuid "fb6bfcd6-bb9f-4e61-8e45-9340487730bf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11357,7 +11357,7 @@
 			(uuid "08aa0218-93dc-4797-876a-70cf751a0454")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.Fab")
 			(uuid "d534c54f-1028-40e1-a64a-d53001532895")
 			(effects
@@ -11432,7 +11432,7 @@
 		(property "Reference" "SW19"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "d6a96f28-8aa9-4b97-81ac-6adad1d2bc0d")
+			(uuid "f0948a8f-7bfd-4b75-828f-55e34a626c53")
 			(effects
 				(font
 					(size 1 1)
@@ -11443,7 +11443,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "7a8e74db-dc1d-499b-8156-0dd48eedabef")
+			(uuid "eee222bc-99f0-45a7-b250-8850b98536b4")
 			(effects
 				(font
 					(size 1 1)
@@ -11456,7 +11456,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6a35eeda-36b3-4e04-a6b6-33feeca01a50")
+			(uuid "009e11ce-2f90-40be-a898-8f95596a9654")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11469,7 +11469,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "adfafac9-f5f9-4be4-bb2b-88b6673ef734")
+			(uuid "2705e880-1b61-483c-8e97-071e1b7412ec")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11717,7 +11717,7 @@
 		(property "Reference" "SW22"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "b1f2ebfb-bb80-4382-a691-1d6f3b86cc0b")
+			(uuid "f88d34ff-c088-4c9c-857d-942adcf8fe12")
 			(effects
 				(font
 					(size 1 1)
@@ -11728,7 +11728,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "96093754-1ae9-4dad-b823-0b9c8aed2ecb")
+			(uuid "d558bdd8-3a66-4926-9a98-647fd5ffcf7e")
 			(effects
 				(font
 					(size 1 1)
@@ -11741,7 +11741,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "248c114e-50e2-4021-9799-294a1fdb971e")
+			(uuid "bae1c309-843b-4611-a228-c2574c6cacac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11754,7 +11754,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fc8cb1b7-0117-4af9-baac-7f62e934c7dd")
+			(uuid "b253b6e8-c465-4352-b09b-208b6656b0ce")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12002,7 +12002,7 @@
 		(property "Reference" "SW23"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "d588940d-4d7a-400d-9382-c97e79fcb23d")
+			(uuid "7adc4ce3-3caf-4787-9fdb-352a3ef1188e")
 			(effects
 				(font
 					(size 1 1)
@@ -12013,7 +12013,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "fcd3d884-1343-44e1-ba35-c490f2059b7a")
+			(uuid "f384c391-cf70-4046-b84c-73d105e3b075")
 			(effects
 				(font
 					(size 1 1)
@@ -12026,7 +12026,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4c673c46-831d-4efa-a150-119c360396e8")
+			(uuid "568d6075-fc58-4e51-ab0e-0fd339673804")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12039,7 +12039,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b85698eb-95dc-4d9c-a8d7-a593dc6db7f1")
+			(uuid "c48eb55b-c99c-4726-8469-9c3fec11ddee")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12287,7 +12287,7 @@
 		(property "Reference" "SW57"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "60ffdd29-e59e-42b8-ac5f-fd0bbbe56266")
+			(uuid "38faa6c8-ceed-4ae6-a751-b87389ae6463")
 			(effects
 				(font
 					(size 1 1)
@@ -12298,7 +12298,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "08132034-df3f-47e1-8ee5-2b490a124f0c")
+			(uuid "e812ac62-6794-4126-a490-de9d05c5fdf6")
 			(effects
 				(font
 					(size 1 1)
@@ -12311,7 +12311,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fe4025a5-c687-4f05-b2c8-930e862f7b2d")
+			(uuid "cd5e3fe8-8c95-4594-b74b-bfbe6e85dab5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12324,7 +12324,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d9d93c0d-80ff-4acb-8b6f-688b5f51c6dc")
+			(uuid "174cd3d3-3384-401b-99dd-40685de85666")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12572,7 +12572,7 @@
 		(property "Reference" "SW56"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "b68b5f6e-c6c4-43a7-a377-15db85e4d8f8")
+			(uuid "aaa4b86e-dcac-4393-acac-18305562d864")
 			(effects
 				(font
 					(size 1 1)
@@ -12583,7 +12583,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "8aadd7ce-a457-46a4-b4b9-9a3fac956a78")
+			(uuid "55467be0-162b-4014-8bdb-49e021a9b21f")
 			(effects
 				(font
 					(size 1 1)
@@ -12596,7 +12596,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4022ecc8-9ea6-4738-99de-f030a5659bb9")
+			(uuid "650841be-11ba-48f1-b2c1-2d466be7dea9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12609,7 +12609,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d1f515b3-2551-4510-a250-6599424fe629")
+			(uuid "96b080d2-fa3d-4004-b54a-afb2cecb03e8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12857,7 +12857,7 @@
 		(property "Reference" "SW49"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "366631f7-811e-48f5-8726-0e730bb1fffc")
+			(uuid "2e93d58a-d141-4a40-ba2f-14d366a2c82a")
 			(effects
 				(font
 					(size 1 1)
@@ -12868,7 +12868,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "b89af90a-66ed-45de-a86a-b45a1b02cfe5")
+			(uuid "deacbfba-a207-4e97-b127-4a594e0edca8")
 			(effects
 				(font
 					(size 1 1)
@@ -12881,7 +12881,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "95c834c8-5cae-42a0-a566-20878ec12b68")
+			(uuid "90d194fd-9e6b-4563-84b2-65c140b4289f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12894,7 +12894,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b781df19-c080-44dd-8ad9-cd532e6052f2")
+			(uuid "aa51c17d-110a-43e4-99df-6ac7a74287eb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13142,7 +13142,7 @@
 		(property "Reference" "SW13"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "01edf2ce-d4e0-41b9-835a-c7f0f7a6fae2")
+			(uuid "81f3db7d-2489-49f6-81fa-4720d0bd1492")
 			(effects
 				(font
 					(size 1 1)
@@ -13153,7 +13153,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "f3cbdc5a-21f7-4981-a062-c51313b2ded0")
+			(uuid "6ecf6fca-235a-48f8-9bd6-16fefc657a1b")
 			(effects
 				(font
 					(size 1 1)
@@ -13166,7 +13166,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "faa4d2be-de1f-49e1-a96c-3fd60c0eb638")
+			(uuid "d4378f59-b04d-47b0-86d1-de28705c4146")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13179,7 +13179,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f612c856-503a-46bb-ab3b-8d4f41a44942")
+			(uuid "5f5ffb5b-e84c-4a85-9f12-85ba47f00f49")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13425,9 +13425,9 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW1"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.SilkS")
-			(uuid "9fe15b26-14ce-4acb-84e5-4c9b6fcf6cc0")
+			(uuid "0c53402f-fb74-4628-a163-8c61ea9c9e76")
 			(effects
 				(font
 					(size 1 1)
@@ -13438,7 +13438,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "03c5602d-8220-4fc1-8e9c-2a3438a79d1c")
+			(uuid "8d42ae9c-1df0-48fc-82f0-af363fd920b2")
 			(effects
 				(font
 					(size 1 1)
@@ -13451,7 +13451,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c0378bdc-825d-4fc0-8eda-9f71e0c76fe7")
+			(uuid "157d173d-e95b-4394-8059-1d6c65941279")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13464,7 +13464,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1642fee6-1e2d-4394-a116-c74049efc2d9")
+			(uuid "fb969d4a-eca9-4021-bcc9-4fe38455c564")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13637,7 +13637,7 @@
 			(uuid "2068a4f8-bf4b-42fc-9a29-35bcb19cd7a6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.Fab")
 			(uuid "a46e2435-26de-46c1-bd0e-b9fcb0e10888")
 			(effects
@@ -13710,9 +13710,9 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW2"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.SilkS")
-			(uuid "b0951ca5-c593-4103-a528-dfdab927c7ad")
+			(uuid "24fcda3b-5120-4c09-8b40-bc86370870f5")
 			(effects
 				(font
 					(size 1 1)
@@ -13723,7 +13723,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "c1e9021b-8910-47ff-81c5-e6a0819589cc")
+			(uuid "11f5273f-7193-4864-9a2a-12dea2b35ce2")
 			(effects
 				(font
 					(size 1 1)
@@ -13736,7 +13736,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e0ffcfb8-ee3b-4284-a145-f1a5e77ce58c")
+			(uuid "7189d522-406d-40c5-813f-c99b1d530ec3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13749,7 +13749,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ca32ceaa-3463-4010-b2be-77b276749a30")
+			(uuid "042d380c-8e8b-4b4f-82f8-7da9164a0a51")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13922,7 +13922,7 @@
 			(uuid "c92c388c-c3e7-48ce-abfd-af24373bd755")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.Fab")
 			(uuid "e15716f3-4da0-4263-baa2-bd1f33fa30c8")
 			(effects
@@ -13995,9 +13995,9 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW7"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.SilkS")
-			(uuid "a6551ea2-df10-478e-9e7d-8126d0ccda0f")
+			(uuid "b01ca1ed-4c75-4f65-9357-2c24d45f26bc")
 			(effects
 				(font
 					(size 1 1)
@@ -14008,7 +14008,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "1f5c6863-364c-470a-a02a-8a771889f43d")
+			(uuid "78f4d02f-e017-4016-934d-a473c7e91ea5")
 			(effects
 				(font
 					(size 1 1)
@@ -14021,7 +14021,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "15d14aac-7c66-4b82-a73a-d14c3a72a5d1")
+			(uuid "63ee3ee5-2566-4b5b-b77a-f85d2b35cb3c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14034,7 +14034,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4f65da28-e63d-4bce-a3e0-e1e91af213a2")
+			(uuid "6661b6f8-2558-4628-9bd4-f9b4f12341a2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14207,7 +14207,7 @@
 			(uuid "b017675f-e2a2-44f6-b74b-cc5ca7394065")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.Fab")
 			(uuid "ebed09e5-aa46-462a-b69f-53c18bdfb6ac")
 			(effects
@@ -14282,7 +14282,7 @@
 		(property "Reference" "SW41"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "2352cdec-b172-44da-a38f-8b0fad92c94f")
+			(uuid "ffdd0c3a-5ae7-4fec-abee-48b7eedfbdfa")
 			(effects
 				(font
 					(size 1 1)
@@ -14293,7 +14293,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "811a5089-7d49-4f2e-90a8-b1a587ae657e")
+			(uuid "bb1a7243-2951-4933-a289-6727b490a0f6")
 			(effects
 				(font
 					(size 1 1)
@@ -14306,7 +14306,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0a936e5f-1cb7-4a57-8494-8de45ba4ce89")
+			(uuid "419ce353-0696-4821-aff7-f41afaf1743c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14319,7 +14319,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "93225d47-6108-49b5-8acb-67ab809a933c")
+			(uuid "2ded227d-4836-4933-99e6-bdb98cccfafc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14567,7 +14567,7 @@
 		(property "Reference" "SW45"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "8f7a69a0-43f9-4a18-881d-9ed7fd57f097")
+			(uuid "7af9e3fe-e7d2-4149-8a0e-0ef3dad4094d")
 			(effects
 				(font
 					(size 1 1)
@@ -14578,7 +14578,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "cf1e24fc-542e-4f25-9aee-c68ccf914e51")
+			(uuid "fae5fa00-3b3f-4270-be74-676094b5e5f4")
 			(effects
 				(font
 					(size 1 1)
@@ -14591,7 +14591,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a5ba9c42-617a-488e-b691-d8ff30bc1a5b")
+			(uuid "25a404e6-91eb-4e98-a048-255a17ef189e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14604,7 +14604,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0d960a3f-1723-445e-b57f-33c21c71731a")
+			(uuid "cbd5b3cd-059c-4383-bddc-33aea46b7bd7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14852,7 +14852,7 @@
 		(property "Reference" "SW50"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "36ec46c6-c888-4767-9459-1bf62af9ae25")
+			(uuid "bb96c949-e08f-4ca6-a35e-03e3823422dd")
 			(effects
 				(font
 					(size 1 1)
@@ -14863,7 +14863,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "3306a19d-9788-41bc-aa9e-0e4af8acf6d3")
+			(uuid "62c385fc-bbf1-40bf-8633-bf32c9d6d1b9")
 			(effects
 				(font
 					(size 1 1)
@@ -14876,7 +14876,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2ccae4df-48e8-4dca-a16b-e0ee5caa5194")
+			(uuid "98cb9176-44e2-4915-8726-a47d3ffd3f0c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14889,7 +14889,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8cb6541d-36e8-4c95-aad7-2fa24f15ddfd")
+			(uuid "29c90560-ea38-47af-bd38-268989b20fc4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15135,9 +15135,9 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW5"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.SilkS")
-			(uuid "7cef4b39-775e-4326-89f0-983d2737a7a6")
+			(uuid "b1f5264b-d4ca-41e9-b752-f23e872ffea5")
 			(effects
 				(font
 					(size 1 1)
@@ -15148,7 +15148,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "4a5c3ea5-f12e-46b5-9ca6-b0b7ffa4676e")
+			(uuid "58f3e658-ffa5-41fd-9d2d-79ffbe21f3f4")
 			(effects
 				(font
 					(size 1 1)
@@ -15161,7 +15161,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "128ad614-015b-4df4-900f-0cb7b9cc5651")
+			(uuid "a1b3d941-b573-4b0f-85da-5ac5d36d6231")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15174,7 +15174,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6d30f47f-9fef-4208-8201-c3a0d1a1adcc")
+			(uuid "f80d8604-f2b3-4d6e-af1b-8d8eae473ce3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15347,7 +15347,7 @@
 			(uuid "0ba3f70d-6183-40f6-9dee-d4e80bff3cff")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.Fab")
 			(uuid "ea7eac00-7ff3-4b51-89a5-0eae857e8fde")
 			(effects
@@ -15422,7 +15422,7 @@
 		(property "Reference" "SW18"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "c1f2167a-f1e4-435e-8043-1406ac69ba14")
+			(uuid "be5ae018-3112-4e45-bafe-e7f23a7c3fc4")
 			(effects
 				(font
 					(size 1 1)
@@ -15433,7 +15433,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "dfcec9ea-044e-4183-9c42-fea22a2e04b1")
+			(uuid "6891a905-1b02-433c-be44-de62f4d2eebe")
 			(effects
 				(font
 					(size 1 1)
@@ -15446,7 +15446,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3b08006c-6b0f-489f-94be-12a95735e7d3")
+			(uuid "5f5b70f0-7d5b-4716-a1fc-98043f087198")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15459,7 +15459,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "846ee5c7-9a0c-4ffc-9e30-2c850a3ed5cf")
+			(uuid "1cb78686-ceb0-4158-8eb5-ea4e16557eac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15707,7 +15707,7 @@
 		(property "Reference" "SW55"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "d27a2c98-77fa-4655-8f47-286e694a0bfc")
+			(uuid "b4c90e7a-f7a8-40bc-ab96-3ffd5fed8b52")
 			(effects
 				(font
 					(size 1 1)
@@ -15718,7 +15718,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "42a6f148-1059-47c3-b129-1cf8433767c0")
+			(uuid "ba18d2d6-272e-45dc-a981-81c0ae5fda71")
 			(effects
 				(font
 					(size 1 1)
@@ -15731,7 +15731,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "36619071-603d-472e-b103-27607493d79f")
+			(uuid "69336cd5-f873-4b69-9562-fa6c449b9af8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15744,7 +15744,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c75b1abb-cf1b-423e-b62d-2498212f1fa4")
+			(uuid "2a321fbe-4648-4d5f-afba-8067aa1db880")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15992,7 +15992,7 @@
 		(property "Reference" "SW35"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "7606fbaf-ff07-4f43-9656-1a69d091e5ca")
+			(uuid "23dad764-6ee7-4624-a2e6-866a950f8428")
 			(effects
 				(font
 					(size 1 1)
@@ -16003,7 +16003,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "c2f74c30-18fa-4a05-95f7-f915ab7b6113")
+			(uuid "c4e65ccb-7f72-42ac-81c5-b392a802b46e")
 			(effects
 				(font
 					(size 1 1)
@@ -16016,7 +16016,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "674dc3ba-feed-4385-9bd0-4a1cea13ade8")
+			(uuid "3c9790ff-6bed-4f1c-8b3a-c49124ddcdae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16029,7 +16029,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e9e21d56-19db-47e3-8339-651f315af6e5")
+			(uuid "dc2a0e69-bac0-4aa0-8cfa-5eecfb8b7245")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16277,7 +16277,7 @@
 		(property "Reference" "SW30"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "b6d8ce9d-bffa-47fe-a3a1-5d68352c0855")
+			(uuid "72472ae3-98f9-4dee-93ec-fc21eb489fa3")
 			(effects
 				(font
 					(size 1 1)
@@ -16288,7 +16288,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "532e1983-d39f-45cf-9b92-ae8ddf121799")
+			(uuid "3b95105f-e23f-478c-b92c-2ad6c33ce9bf")
 			(effects
 				(font
 					(size 1 1)
@@ -16301,7 +16301,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1d05cbe2-9a60-49e6-8ed6-8f46248e81bf")
+			(uuid "fa64bbaf-149c-4f27-a247-cdb970901c17")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16314,7 +16314,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f64fb5dc-7da8-4fed-a137-bf3d6cfaf290")
+			(uuid "34c47d06-d5e2-4a0e-86c0-d5f1c8836820")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16562,7 +16562,7 @@
 		(property "Reference" "SW15"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "ba9d571b-1e23-4e75-9b59-d4a3bc7218e4")
+			(uuid "770b87cc-6ad9-41a9-a40c-6cbb6df1c53c")
 			(effects
 				(font
 					(size 1 1)
@@ -16573,7 +16573,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "f4089c34-4aec-4cc1-9515-c7fdf47463ac")
+			(uuid "3371bfec-7b75-4e5a-9843-d6a755385efa")
 			(effects
 				(font
 					(size 1 1)
@@ -16586,7 +16586,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8c60b2c4-1459-4306-b182-d44c4c78dbe1")
+			(uuid "2470cda9-9d68-4219-b33e-205836a3100b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16599,7 +16599,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eb7467d2-9a1f-4b77-aad2-90febafba700")
+			(uuid "ae72c086-d5e6-411a-8c63-58ac265f59c9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16847,7 +16847,7 @@
 		(property "Reference" "SW44"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "e6119d00-976a-47ea-925f-8a413ff25a28")
+			(uuid "d571367c-8579-44b3-9ee1-82424d26e519")
 			(effects
 				(font
 					(size 1 1)
@@ -16858,7 +16858,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "793e3997-1b29-44f8-bd75-6d4baf4e5745")
+			(uuid "780e88b2-7e5d-4441-8385-02325619221f")
 			(effects
 				(font
 					(size 1 1)
@@ -16871,7 +16871,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3a2ea7a9-7e49-4988-aa20-ad589d9abe9f")
+			(uuid "822456c6-20ef-4efb-8d49-b6a5797adc8a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16884,7 +16884,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5f55f83c-d697-44bb-aa0a-f57dea5b0e5c")
+			(uuid "c56e3bfd-b18d-49a8-ad3c-f669acf5204d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17132,7 +17132,7 @@
 		(property "Reference" "SW51"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "a733bced-722b-4c11-801b-96d8f69984ae")
+			(uuid "5c3e4ee5-b10f-408a-b97f-2e6726460c49")
 			(effects
 				(font
 					(size 1 1)
@@ -17143,7 +17143,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "49579799-d0be-4099-b70e-8a0a824276b5")
+			(uuid "bcb99b06-89cb-4eae-b775-f51fa719e426")
 			(effects
 				(font
 					(size 1 1)
@@ -17156,7 +17156,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4d56370b-35fc-4a4e-bb39-3c9b9808e20f")
+			(uuid "93e459a3-2d0b-44f0-ad5c-32f49d17b32f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17169,7 +17169,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c24a4628-f804-48d9-926a-67618ddb577d")
+			(uuid "15647500-8019-42cb-8c83-09253ae8f77e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17417,7 +17417,7 @@
 		(property "Reference" "SW21"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "1cdd79b4-5fb7-4f0f-8523-b05334aaf17f")
+			(uuid "e787780a-5b3b-4362-bd66-aac566385857")
 			(effects
 				(font
 					(size 1 1)
@@ -17428,7 +17428,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "6fc92a73-d3d0-41a3-895f-19f256ca2dad")
+			(uuid "deae931f-2ad4-4031-a9c2-c4d7354b8833")
 			(effects
 				(font
 					(size 1 1)
@@ -17441,7 +17441,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0dcd5ca3-06cf-4776-bd3f-3e200a1d1bb9")
+			(uuid "4bbf1c5f-844f-4900-9501-2a7c5e6def88")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17454,7 +17454,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f4b00617-989c-4c98-a881-c27173741642")
+			(uuid "e548ca4e-e44b-49d7-b4da-679da4f45f63")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17702,7 +17702,7 @@
 		(property "Reference" "SW54"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "91ff5b01-5f28-45a4-9782-d679f806bcbd")
+			(uuid "ac379be0-dabf-4ab7-b660-009cdf3fb951")
 			(effects
 				(font
 					(size 1 1)
@@ -17713,7 +17713,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "61f67631-9c2c-4f19-aa69-aab643ff8877")
+			(uuid "bd79e273-6513-4106-80d0-221d4399a4a4")
 			(effects
 				(font
 					(size 1 1)
@@ -17726,7 +17726,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bc32b092-661d-47c2-9d9e-fbc611e6e208")
+			(uuid "f3b10eb2-8cd0-40c5-8a5f-2f63b2d9d4e0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17739,7 +17739,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c96e1127-c1c3-4119-949f-63bc541ad5e7")
+			(uuid "80ad25a9-b79d-403f-aa71-14b1e706e26f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17985,9 +17985,9 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW6"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.SilkS")
-			(uuid "a402663c-f671-4962-8b43-e0a85e4719ea")
+			(uuid "46e33066-6284-44f8-bb5f-202773ff8396")
 			(effects
 				(font
 					(size 1 1)
@@ -17998,7 +17998,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "b5be7f18-bd9f-44a5-a9e4-0bf78e1bc632")
+			(uuid "d40d7a26-1a8c-441b-8a6c-bd02d601a433")
 			(effects
 				(font
 					(size 1 1)
@@ -18011,7 +18011,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8ca231e7-4c79-468b-b412-334dcb786425")
+			(uuid "d55bbc2c-70fe-4931-bf53-5f81d2f18376")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18024,7 +18024,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "25a57227-1d28-40f4-89cf-2bb124b34b5d")
+			(uuid "745c9967-3ae3-49d4-8905-875b425c100d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18197,7 +18197,7 @@
 			(uuid "21ce439b-62b0-491a-8f1d-4e372df910bf")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -3.29 -0.17 0)
 			(layer "F.Fab")
 			(uuid "a00871da-5108-4880-869d-d4d616a6c8ab")
 			(effects
@@ -18272,7 +18272,7 @@
 		(property "Reference" "SW59"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "6fa3b27c-4cf1-42af-8432-2761a60693c2")
+			(uuid "9e213b7a-afda-4102-acc4-8d2585f1d47c")
 			(effects
 				(font
 					(size 1 1)
@@ -18283,7 +18283,7 @@
 		(property "Value" "SW_MX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "b1a23bae-cae1-4193-aa5a-8380065b78a4")
+			(uuid "4881fc77-e0b1-465d-9a3e-3497848996fd")
 			(effects
 				(font
 					(size 1 1)
@@ -18296,7 +18296,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "25fbae50-bdae-4333-90ac-c37face2fd35")
+			(uuid "09c992a9-430d-42bb-a4e1-924ff0d0c873")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18309,7 +18309,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "82220f52-eb28-45d8-bc65-06f332f37b02")
+			(uuid "7993c6d4-53a9-42a9-ad01-dc4f36df6363")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18551,13 +18551,13 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "0492867a-e565-4958-a5b4-e58aa2fd1ce5")
-		(at 31.25 62.5 90)
+		(at 47.75 60 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D1"
-			(at 1.27 2.326371 90)
+			(at 5.175686 0 90)
 			(layer "B.SilkS")
-			(uuid "83c9f5e4-459b-406a-a649-d448e5fdfda6")
+			(uuid "efbdf4db-7b9c-4ea1-a510-36f7d7a7ef78")
 			(effects
 				(font
 					(size 1 1)
@@ -18569,7 +18569,7 @@
 		(property "Value" "D"
 			(at 1.27 -3.215371 90)
 			(layer "B.Fab")
-			(uuid "d755ec28-c9f8-47a2-baee-352ae3578d82")
+			(uuid "543b0631-3d81-4f4a-a37a-ae38fb98ef0c")
 			(effects
 				(font
 					(size 1 1)
@@ -18582,7 +18582,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b27b2b4f-8f64-4c55-8b5f-18814ce1ad90")
+			(uuid "4cae11db-c93d-41a8-924b-b94ca64e401f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18595,7 +18595,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c95eb1ee-a87d-4deb-9f3e-ecd5bae1596e")
+			(uuid "5154697f-4b14-4771-835c-5db1a10959f6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18703,7 +18703,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.175686 0 90)
 			(layer "B.Fab")
 			(uuid "9d35f75b-7738-4fd5-87be-1fdf2a6cbc8c")
 			(effects
@@ -18769,7 +18769,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D5"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "a663bb71-d01e-4403-8641-00a6c822f5e2")
 			(effects
@@ -18929,7 +18929,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "c7f94931-f477-48f0-ac1f-a5264479686b")
 			(effects
@@ -18983,7 +18983,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D45"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "619ddef5-2375-4b42-b561-6b2bb55b2462")
 			(effects
@@ -19131,7 +19131,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "7649db2f-e58e-4328-8e9d-120fc33bfcab")
 			(effects
@@ -19197,7 +19197,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D42"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "dc300fba-49ca-4454-8379-56a1cc2771ce")
 			(effects
@@ -19357,7 +19357,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "36e13cc8-a67f-4595-aba9-328a2e25f27f")
 			(effects
@@ -19411,7 +19411,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D46"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "ec0a8ba7-3313-4966-b40d-f2610efcfb9d")
 			(effects
@@ -19559,7 +19559,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "3daecafd-81aa-483b-a115-66833bbc5649")
 			(effects
@@ -19625,7 +19625,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D27"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "421436b3-c989-4849-a900-3853a1e26b71")
 			(effects
@@ -19785,7 +19785,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "b5a63986-8335-4621-be4b-7a656874ad4e")
 			(effects
@@ -19839,7 +19839,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D41"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "ace5cbb3-dc0b-4d12-8259-e18073d624d7")
 			(effects
@@ -19987,7 +19987,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "0b3d8e5c-f246-4042-9c4f-d72d5677dc19")
 			(effects
@@ -20053,7 +20053,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D19"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "51417667-a14a-4a3b-87ba-41abd3229820")
 			(effects
@@ -20201,7 +20201,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "06a9771f-bc5f-42e5-893e-eea26c63e322")
 			(effects
@@ -20267,7 +20267,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D3"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "99f36747-906e-49db-ba91-bf745aa5245f")
 			(effects
@@ -20427,7 +20427,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "b44346c2-e74c-4604-a245-0897971e68b3")
 			(effects
@@ -20481,7 +20481,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D9"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "6a735829-066f-4773-a012-027810883fa4")
 			(effects
@@ -20641,7 +20641,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "42aa343f-f070-4100-8722-c2f0a1836274")
 			(effects
@@ -20695,7 +20695,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D39"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "740fe5b9-36cd-447c-b663-ffaec2c4d046")
 			(effects
@@ -20855,7 +20855,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "f4fed122-6645-465e-92c8-423407114a2f")
 			(effects
@@ -20909,7 +20909,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D11"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "648c8d4e-9d06-4d33-8cd8-4607f20893ee")
 			(effects
@@ -21069,7 +21069,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "fb55aedf-eeb5-4a8b-98c7-5d4032cd2d3d")
 			(effects
@@ -21123,7 +21123,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D37"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "2851ad7d-752f-48a7-a855-b23098f8c800")
 			(effects
@@ -21271,7 +21271,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "0118479a-010f-4244-84b6-0ce5426b0e76")
 			(effects
@@ -21333,11 +21333,11 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "2ea03262-51af-4ee1-b0ff-261d4c140398")
-		(at 31.25 100.5 90)
+		(at 47.75 98 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D23"
-			(at 1.27 2.326371 90)
+			(at 5.5 0 90)
 			(layer "B.SilkS")
 			(uuid "bb9f0cbc-0ee3-46c2-bec4-c87718056b47")
 			(effects
@@ -21497,7 +21497,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.5 0 90)
 			(layer "B.Fab")
 			(uuid "df20f860-3f6a-4e01-867b-6c76531d55b5")
 			(effects
@@ -21551,7 +21551,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D6"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "97c552af-0325-478e-8594-d3cb333aaae5")
 			(effects
@@ -21711,7 +21711,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "6ebf6f46-a9e6-4c3d-ae66-9da2d64ef4a5")
 			(effects
@@ -21765,7 +21765,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D36"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "345dd637-d23d-4cfa-8d89-3c611b96707c")
 			(effects
@@ -21913,7 +21913,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "2d031914-ad23-4379-9492-7a323953f562")
 			(effects
@@ -21979,7 +21979,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D16"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "9fefb190-9327-4652-ab23-8c2b84c0c70d")
 			(effects
@@ -22139,7 +22139,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "8c4f778a-5ded-46ad-a68e-35976b15de0c")
 			(effects
@@ -22189,11 +22189,11 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "3dfea2c5-f8b5-46cd-adcd-6209cda44745")
-		(at 31.25 138.5 90)
+		(at 47.75 136 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D47"
-			(at 1.27 2.326371 90)
+			(at 5.5 0 90)
 			(layer "B.SilkS")
 			(uuid "5afed8d9-6d10-4f0e-97da-f84e507bffc6")
 			(effects
@@ -22353,7 +22353,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.5 0 90)
 			(layer "B.Fab")
 			(uuid "79e87bd4-2cb1-4c6f-9d56-8dc4cf405841")
 			(effects
@@ -22407,7 +22407,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D29"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "c8752ff5-65a3-4c7b-9c2d-72908270b645")
 			(effects
@@ -22555,7 +22555,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "37eafb66-10d3-468a-b367-8776623a2e23")
 			(effects
@@ -22621,7 +22621,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D22"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "fe80eec0-33cc-4263-98ec-9717c78e9c39")
 			(effects
@@ -22769,7 +22769,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "10b9b100-7d85-431a-bc01-7e78e3aca8a5")
 			(effects
@@ -22835,7 +22835,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D20"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "add5e04a-a8e4-48d6-8b0a-43ac506368ca")
 			(effects
@@ -22995,7 +22995,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "ce35f191-d22e-4c10-a82c-68380c76c1f0")
 			(effects
@@ -23045,11 +23045,11 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "5580bd1b-771c-4156-89bf-7292f5b2d875")
-		(at 31.25 81.5 90)
+		(at 47.75 79 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D12"
-			(at 1.27 2.326371 90)
+			(at 5.5 0 90)
 			(layer "B.SilkS")
 			(uuid "97b77e81-f9d2-4622-b495-4a021cb25226")
 			(effects
@@ -23209,7 +23209,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.5 0 90)
 			(layer "B.Fab")
 			(uuid "b148e605-5cc6-483b-9ede-988b9bc206ff")
 			(effects
@@ -23263,7 +23263,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D24"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "efe21b70-4817-468d-a302-b0a6a01e7d8d")
 			(effects
@@ -23411,7 +23411,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "4d2b20d7-f31f-4bb9-a8b3-8a1c21df94b4")
 			(effects
@@ -23477,7 +23477,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D7"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "593f927e-511b-4d2a-acb8-6c7b8aef18c6")
 			(effects
@@ -23637,7 +23637,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "9281e55a-dceb-43c9-bf06-5743ce0fcf74")
 			(effects
@@ -23691,7 +23691,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D18"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "06392760-532c-4218-bfc1-5d706c4f8b67")
 			(effects
@@ -23851,7 +23851,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "f2968135-d65b-4c99-91ec-6cc6dd486b07")
 			(effects
@@ -23905,7 +23905,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D26"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "60886a84-b15d-4d06-a3ca-942b9ce62eee")
 			(effects
@@ -24053,7 +24053,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "66dbb71e-a6c6-4637-9fb9-23663c75871d")
 			(effects
@@ -24119,7 +24119,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D54"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "e37f6956-0ca3-431b-9726-0c9a6e26bedc")
 			(effects
@@ -24279,7 +24279,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "7c454d7f-68eb-4059-90c3-5a4ce99ee3fe")
 			(effects
@@ -24333,7 +24333,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D59"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "6659e922-6909-4130-8f10-bda91fa1c87d")
 			(effects
@@ -24481,7 +24481,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "28375c05-f8dc-48c8-ae1e-4aa7f3c053e1")
 			(effects
@@ -24547,7 +24547,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D31"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "95ef9e35-3305-47f7-bac9-36656c4de577")
 			(effects
@@ -24707,7 +24707,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "70852dd8-f797-42e7-ab56-70dbf79df0d3")
 			(effects
@@ -24761,7 +24761,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D8"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "911475c2-0f63-4018-9409-a03a9abbf2a4")
 			(effects
@@ -24921,7 +24921,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "e4f8ba1f-739e-4083-9fe3-6bb5e642ce01")
 			(effects
@@ -24975,7 +24975,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D28"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "5193d250-80db-4efb-9f28-5b2e4b2631e7")
 			(effects
@@ -25135,7 +25135,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "e06d1ba3-6fd4-4bc4-92a9-e09994f3ee6c")
 			(effects
@@ -25189,7 +25189,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D48"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "f5b9f369-cfe7-425a-bb6c-b88a6fde359a")
 			(effects
@@ -25337,7 +25337,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "2cb99a41-0dd2-4b47-8587-0b5bc0c11171")
 			(effects
@@ -25403,7 +25403,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D17"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "ebe36f07-a510-4694-af23-7e90ecbef7bd")
 			(effects
@@ -25563,7 +25563,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "bfc5ce56-7182-47ac-b196-543fe6bcc6c1")
 			(effects
@@ -25617,7 +25617,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D43"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "99477582-5240-407b-a65f-f47fdbb21d4d")
 			(effects
@@ -25765,7 +25765,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "c1179d12-f399-4fbd-a05c-0e7fc03ca985")
 			(effects
@@ -25831,7 +25831,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D2"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "3c049164-5d6d-49b9-9cc4-c6788e3d0246")
 			(effects
@@ -25991,7 +25991,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "de77f9c4-7401-479c-b812-1cb288f96ac8")
 			(effects
@@ -26045,7 +26045,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D15"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "84334b1f-8857-468e-836e-12fffb2d6251")
 			(effects
@@ -26205,7 +26205,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "345e9599-68f0-4d1f-8206-21f8ab73d4b9")
 			(effects
@@ -26255,13 +26255,13 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp"
 		(layer "B.Cu")
 		(uuid "9002a8d8-7fd2-4add-8d6f-5857197fda81")
-		(at 31.25 119.5 90)
+		(at 47.75 117.04 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D34"
-			(at 1.27 2.326371 90)
+			(at 5.54 0 90)
 			(layer "B.SilkS")
-			(uuid "eb6d14fe-9309-4c59-885a-2bbf66cbcd4f")
+			(uuid "3fc76ee5-474c-4aba-9ac2-977beb3ffc27")
 			(effects
 				(font
 					(size 1 1)
@@ -26273,7 +26273,7 @@
 		(property "Value" "D"
 			(at 1.27 -3.215371 90)
 			(layer "B.Fab")
-			(uuid "1512c769-9adc-43ce-8e08-6a48af416241")
+			(uuid "cb8b9252-f329-4b76-80e5-44ffd867d91f")
 			(effects
 				(font
 					(size 1 1)
@@ -26286,7 +26286,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "106c62dd-2069-4161-8ba7-f8d405e522f3")
+			(uuid "04d780bd-eebe-459a-8563-ee3e2a6b31ab")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26299,7 +26299,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "74edd82f-96db-4a59-bfd3-93562eee9585")
+			(uuid "03322a45-e47d-4993-898e-169d5a591696")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26419,7 +26419,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.54 0 90)
 			(layer "B.Fab")
 			(uuid "f4507a13-8f48-4b55-aad9-ce92169d26b2")
 			(effects
@@ -26473,7 +26473,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D35"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "4c9db377-24ad-4eef-8ac9-c1308c948c89")
 			(effects
@@ -26633,7 +26633,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "e5a1c02a-54ea-4892-b025-3c0947e67774")
 			(effects
@@ -26687,7 +26687,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D55"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "4570be99-301b-47ea-af9f-85a3f5a7f911")
 			(effects
@@ -26847,7 +26847,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "d8c606d6-9956-46da-814b-4d24e0a94cf2")
 			(effects
@@ -26901,7 +26901,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D58"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "f19075f3-c051-4992-a92b-49ccce8ac375")
 			(effects
@@ -27049,7 +27049,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "24276a25-61b0-4893-92c5-8c468ee0244e")
 			(effects
@@ -27115,7 +27115,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D32"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "67ff9a05-807c-4f19-9244-f837a316c81d")
 			(effects
@@ -27263,7 +27263,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "712f2fd8-3a59-47ed-b510-ac3742785aeb")
 			(effects
@@ -27329,7 +27329,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D40"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "d4887963-560c-4473-8d4d-362909d7c2d9")
 			(effects
@@ -27489,7 +27489,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "f04fecea-2cdc-44ea-a81a-f878dd6b717b")
 			(effects
@@ -27543,7 +27543,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D52"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "92c21c62-53b8-4aa4-8925-3de631aa43dd")
 			(effects
@@ -27691,7 +27691,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "17636c15-0131-4ead-96cb-84dcc3c12f5e")
 			(effects
@@ -27757,7 +27757,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D57"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "41ebdb6f-32ba-4b31-883d-f8f0ad408235")
 			(effects
@@ -27917,7 +27917,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "ff0a75db-2cfd-4246-90fc-ba67b044b995")
 			(effects
@@ -27971,7 +27971,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D51"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "2a76d912-0f8c-4391-a765-ff5e85e163db")
 			(effects
@@ -28119,7 +28119,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "c304d2f6-60b3-4870-b7b7-34f69ea70974")
 			(effects
@@ -28185,7 +28185,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D30"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "a50d2d7e-3246-4d5e-9987-7908104a62c2")
 			(effects
@@ -28345,7 +28345,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "ba081059-d86c-404c-83ff-ba21a5313791")
 			(effects
@@ -28399,7 +28399,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D25"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "dfb00515-2cb1-458d-97c6-58563d253933")
 			(effects
@@ -28547,7 +28547,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "3ccd4476-f1c4-4132-8246-95602f527595")
 			(effects
@@ -28613,7 +28613,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D10"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "546c8ac6-e039-4cca-bba9-9f799838f6ab")
 			(effects
@@ -28761,7 +28761,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "0f94f8d3-0975-4a1f-9653-2e1f5e06cb53")
 			(effects
@@ -28827,7 +28827,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D44"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "4a0f1c79-d9ba-4665-b2ca-5ad2f36e462a")
 			(effects
@@ -28987,7 +28987,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "6a60771a-fb29-4bc5-8bd5-f27ec5f281b2")
 			(effects
@@ -29041,7 +29041,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D14"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "7162e861-ec90-4f84-8aa1-70a63df28171")
 			(effects
@@ -29201,7 +29201,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "441b54fc-1ef8-465c-bafb-81970fcbe18a")
 			(effects
@@ -29255,7 +29255,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D53"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "e03da0da-c75f-418c-88d8-6849ca3d17d5")
 			(effects
@@ -29415,7 +29415,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "5e93977b-0f41-44a8-ad46-0e59760e4bdb")
 			(effects
@@ -29469,7 +29469,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D33"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "2675038e-a481-432a-82ad-f7900bbf9370")
 			(effects
@@ -29617,7 +29617,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "2ab9178d-4b29-44b0-8c49-0f5f01f2a824")
 			(effects
@@ -29683,7 +29683,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D50"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "545fde07-5d2f-4f2a-ab2b-4ebb1b13ae25")
 			(effects
@@ -29843,7 +29843,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "e763c374-fb40-4991-bb19-e33e314fd0e6")
 			(effects
@@ -29897,7 +29897,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D13"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "7e829109-4678-4e96-af43-9c5792915b9e")
 			(effects
@@ -30057,7 +30057,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "474c5a3a-e7d5-4e2a-aad0-89a6154006fa")
 			(effects
@@ -30111,7 +30111,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D49"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "3adfeead-9ecf-4c4a-9620-c4d144e1a22e")
 			(effects
@@ -30271,7 +30271,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "7af693db-2261-4294-a9cc-e5d749653678")
 			(effects
@@ -30325,7 +30325,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D56"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "9264a447-4907-4274-8cd2-3e4009823f46")
 			(effects
@@ -30485,7 +30485,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "611fd2e3-c9b3-4b82-9bee-ed980b56eafd")
 			(effects
@@ -30539,7 +30539,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D4"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "91107699-4cb9-495c-936a-9bdc27d9853b")
 			(effects
@@ -30687,7 +30687,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "65b57d42-8956-4ece-af28-ac9d5c0d45e4")
 			(effects
@@ -30753,7 +30753,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D38"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.SilkS")
 			(uuid "e9686e10-0724-4094-943a-1d97c56849f5")
 			(effects
@@ -30901,7 +30901,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 6 0 90)
 			(layer "B.Fab")
 			(uuid "6c313e20-189e-4b94-9307-a4fe44e30cad")
 			(effects
@@ -30967,7 +30967,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm")
 		(property "Reference" "D21"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.SilkS")
 			(uuid "6193e859-d123-44ae-81ae-6d132c03cdce")
 			(effects
@@ -31127,7 +31127,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 2.326371 90)
+			(at 5.75 0 90)
 			(layer "B.Fab")
 			(uuid "e9a1e5f2-51be-47cb-8d03-7e5d9a702c20")
 			(effects
@@ -31173,6 +31173,1214 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_line
+		(start 31.5 51.5)
+		(end 275.5 51.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "022d0692-eb03-48dc-bab0-dc190d7dd8d5")
+	)
+	(gr_line
+		(start 31.5 51.5)
+		(end 31.5 143.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "30a48cda-e1c0-4a8a-afa8-74eb58bdaea7")
+	)
+	(gr_line
+		(start 275.5 143.5)
+		(end 275.5 51.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "cbad4957-97fa-4636-aef4-12141306a80a")
+	)
+	(gr_line
+		(start 31.5 143.5)
+		(end 275.5 143.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f8ab124f-4d00-4e0b-aca3-d4b51ca5fc77")
+	)
+	(segment
+		(start 221.25 81.5)
+		(end 50.25 81.5)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 2)
+		(uuid "1f2e2cc6-3461-4ed9-9864-8ec1ed3957f0")
+	)
+	(segment
+		(start 50.25 81.5)
+		(end 47.75 79)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 2)
+		(uuid "38dbf7ed-6ab7-4d9a-9eed-190fc25bf428")
+	)
+	(segment
+		(start 118.04 54.42)
+		(end 118.04 130.34)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "433fddac-91fa-49d7-b9d2-591789bbaa7d")
+	)
+	(segment
+		(start 118.04 130.34)
+		(end 117.96 130.42)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "524d5572-389d-4851-b5e5-9c488d140770")
+	)
+	(segment
+		(start 270.04 111.42)
+		(end 270.04 130.42)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 4)
+		(uuid "92c154c0-c861-49cd-91b4-3c45610fb546")
+	)
+	(segment
+		(start 79.96 130.46)
+		(end 79.96 54.5)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 5)
+		(uuid "7fd90c1c-20b7-439c-a4fe-b3b58d822003")
+	)
+	(segment
+		(start 79.96 54.5)
+		(end 80.04 54.42)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 5)
+		(uuid "cba54ede-d7c0-4687-b7e8-2d5b16992be0")
+	)
+	(segment
+		(start 175.04 130.34)
+		(end 174.96 130.42)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 6)
+		(uuid "4b12f281-2e90-4cb2-948d-b8d9c7db0368")
+	)
+	(segment
+		(start 175.04 54.42)
+		(end 175.04 130.34)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 6)
+		(uuid "61f7142f-8107-4ec2-800d-1bbaf0819fea")
+	)
+	(segment
+		(start 248.36 100.5)
+		(end 248.5 100.36)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 8)
+		(uuid "af761c89-e6ac-4214-8d29-5f056507cf1d")
+	)
+	(segment
+		(start 221.25 100.5)
+		(end 50.25 100.5)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 8)
+		(uuid "d5a737ae-90e1-49b6-814d-fe7f2e5a5c06")
+	)
+	(segment
+		(start 50.25 100.5)
+		(end 47.75 98)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 8)
+		(uuid "e997c203-faa8-4526-b520-5deb96dece2e")
+	)
+	(segment
+		(start 194.04 130.34)
+		(end 193.96 130.42)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 10)
+		(uuid "61062f4f-a608-494a-84c5-e009c8832b67")
+	)
+	(segment
+		(start 194.04 54.42)
+		(end 194.04 130.34)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 10)
+		(uuid "a3633dbc-95d9-47d1-aad8-85b38ff228cc")
+	)
+	(segment
+		(start 50.21 119.5)
+		(end 47.75 117.04)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 15)
+		(uuid "31df2c82-fea5-48cf-ab93-f8dca2521470")
+	)
+	(segment
+		(start 259.25 119.5)
+		(end 257.25 119.5)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 15)
+		(uuid "c3d4f64f-1fc7-455a-a871-ccfd55babe59")
+	)
+	(segment
+		(start 257.25 119.5)
+		(end 50.21 119.5)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 15)
+		(uuid "f1cddba5-889a-426f-8903-ffdcdebb633c")
+	)
+	(segment
+		(start 50.25 62.5)
+		(end 221.25 62.5)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 16)
+		(uuid "9518af50-863d-4259-8ba6-029731bd57e5")
+	)
+	(segment
+		(start 47.75 60)
+		(end 50.25 62.5)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 16)
+		(uuid "e02fe4d5-289d-4f87-a1ec-bda8f4a78089")
+	)
+	(segment
+		(start 42.04 54.42)
+		(end 42.04 130.42)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 20)
+		(uuid "2dd997bd-910d-41ca-ad8d-49da7952a32c")
+	)
+	(segment
+		(start 99.04 100.04)
+		(end 98.96 100.12)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 23)
+		(uuid "3d2b77f5-f439-4a5e-acc6-074be436e1ca")
+	)
+	(segment
+		(start 98.96 100.12)
+		(end 98.96 130.42)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 23)
+		(uuid "6f43e3fd-0b78-4410-a449-5d4c83056592")
+	)
+	(segment
+		(start 99.04 54.42)
+		(end 99.04 100.04)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 23)
+		(uuid "be8e4002-9614-410b-91b7-d0be7dd5f9ad")
+	)
+	(segment
+		(start 251.04 111.42)
+		(end 251.04 130.34)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 25)
+		(uuid "585313d9-b30e-4312-b53f-c17ad4be32fa")
+	)
+	(segment
+		(start 251.04 130.34)
+		(end 250.96 130.42)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 25)
+		(uuid "9b773665-50ec-4956-a406-a460281fc177")
+	)
+	(segment
+		(start 259.25 138.5)
+		(end 50 138.5)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 27)
+		(uuid "ad66dd8f-eaaa-441e-bbba-f9920ddab063")
+	)
+	(segment
+		(start 50 138.5)
+		(end 47.75 136.25)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 27)
+		(uuid "c11a395e-1177-432a-bdbd-319da72cc931")
+	)
+	(segment
+		(start 47.75 136.25)
+		(end 47.75 136)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 27)
+		(uuid "eecde039-9988-4ba7-adae-72e185967235")
+	)
+	(segment
+		(start 232.04 130.34)
+		(end 231.96 130.42)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 28)
+		(uuid "74637ebb-e577-4f1d-a90a-107b1d75a768")
+	)
+	(segment
+		(start 232.04 54.42)
+		(end 232.04 130.34)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 28)
+		(uuid "aa8f5b16-c81b-4b0c-b057-2542fa58afde")
+	)
+	(segment
+		(start 212.96 119.04)
+		(end 212.96 130.42)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 33)
+		(uuid "176d37b2-49d4-467c-ab6c-4211e0b919d9")
+	)
+	(segment
+		(start 213.04 118.96)
+		(end 212.96 119.04)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 33)
+		(uuid "3d46b528-80da-4436-ad6c-1960d670d618")
+	)
+	(segment
+		(start 213.04 54.42)
+		(end 213.04 118.96)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 33)
+		(uuid "b4fd29ef-e8c8-41db-8890-14868e10ab77")
+	)
+	(segment
+		(start 156.04 130.34)
+		(end 155.96 130.42)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 36)
+		(uuid "022afbe2-a651-43c0-901a-e5e0b5e64876")
+	)
+	(segment
+		(start 156.04 54.42)
+		(end 156.04 130.34)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 36)
+		(uuid "cb0727c1-8952-44ab-bbe6-44adbd6b3c62")
+	)
+	(segment
+		(start 61.04 54.42)
+		(end 61.04 130.42)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 37)
+		(uuid "d432aa75-b3f1-43e9-bc31-b8dd7592c2dc")
+	)
+	(segment
+		(start 137.04 54.42)
+		(end 137.04 130.34)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 40)
+		(uuid "2ee3163e-2eb3-4351-a17d-9706edfad01f")
+	)
+	(segment
+		(start 137.04 130.34)
+		(end 136.96 130.42)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 40)
+		(uuid "d9b3ca5f-4192-4352-8cd8-da83b97d1015")
+	)
+	(segment
+		(start 53.25 56.96)
+		(end 50.25 59.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 42)
+		(uuid "8e6df146-8b83-40f9-ab69-75a1f127a3b4")
+	)
+	(segment
+		(start 54.69 56.96)
+		(end 53.25 56.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 42)
+		(uuid "f5ec5ac2-5414-43d1-867d-03fccb3e4089")
+	)
+	(segment
+		(start 72.25 56.96)
+		(end 69.25 59.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 43)
+		(uuid "3678f9c2-f080-4489-a1b8-7331fd870fd5")
+	)
+	(segment
+		(start 73.69 56.96)
+		(end 72.25 56.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 43)
+		(uuid "3bfed2c1-82d4-4d7c-aee1-4099ee730d79")
+	)
+	(segment
+		(start 91.25 56.96)
+		(end 88.25 59.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 44)
+		(uuid "53ccb2c8-3336-4eb9-808f-3469d1e3f56e")
+	)
+	(segment
+		(start 92.69 56.96)
+		(end 91.25 56.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 44)
+		(uuid "542c687b-2089-4bb4-b4de-71d1c20fb803")
+	)
+	(segment
+		(start 111.69 56.96)
+		(end 110 56.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 45)
+		(uuid "11efb210-f37f-4c1c-8a7d-156a7dd0867e")
+	)
+	(segment
+		(start 110 56.96)
+		(end 107 59.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 45)
+		(uuid "73116dbd-a2d5-4fcb-aa5d-9200c648ea89")
+	)
+	(segment
+		(start 129.25 56.96)
+		(end 126.25 59.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 46)
+		(uuid "7476bd10-53b3-4e79-8bfc-1ce9434f6b17")
+	)
+	(segment
+		(start 130.69 56.96)
+		(end 129.25 56.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 46)
+		(uuid "899e2403-16ad-4e64-bad1-3a3ed3686b1f")
+	)
+	(segment
+		(start 149.69 56.96)
+		(end 148.25 56.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 47)
+		(uuid "b59dd027-bf23-4e00-a9fe-a1fcded37132")
+	)
+	(segment
+		(start 148.25 56.96)
+		(end 145.25 59.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 47)
+		(uuid "d958a266-cc28-46cb-a300-028258cd628d")
+	)
+	(segment
+		(start 167.25 56.96)
+		(end 164.25 59.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 48)
+		(uuid "01e42a24-cc8b-491c-a09d-2b221e927513")
+	)
+	(segment
+		(start 168.69 56.96)
+		(end 167.25 56.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 48)
+		(uuid "96d92537-33d3-40fa-a6d8-dd3c95ed0050")
+	)
+	(segment
+		(start 187.69 56.96)
+		(end 186.25 56.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 49)
+		(uuid "becde0a6-cdf2-4015-9259-b215c1c26f60")
+	)
+	(segment
+		(start 186.25 56.96)
+		(end 183.25 59.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 49)
+		(uuid "d5686e9e-c6c4-4975-88fb-2125faed3454")
+	)
+	(segment
+		(start 206.69 56.96)
+		(end 205.25 56.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 50)
+		(uuid "0301051a-eb10-4dfd-a0b6-a33fbb1b3b34")
+	)
+	(segment
+		(start 205.25 56.96)
+		(end 202.25 59.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 50)
+		(uuid "746f19dc-fb45-4661-b21e-5688da49855a")
+	)
+	(segment
+		(start 225.69 56.96)
+		(end 224.25 56.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 51)
+		(uuid "dde17266-3824-4481-a48d-27c8b3855763")
+	)
+	(segment
+		(start 224.25 56.96)
+		(end 221.25 59.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 51)
+		(uuid "fa1b4f5b-fdb3-48bf-a4cb-ad99db4de5a6")
+	)
+	(segment
+		(start 53.25 75.96)
+		(end 50.25 78.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 53)
+		(uuid "1c04db43-81fa-4304-812b-71fb8aa4ef14")
+	)
+	(segment
+		(start 54.69 75.96)
+		(end 53.25 75.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 53)
+		(uuid "fe19c3ce-0be4-4268-95dd-8769aef42db6")
+	)
+	(segment
+		(start 73.69 75.96)
+		(end 72.25 75.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 54)
+		(uuid "2bcd369f-2f6d-40b6-ae5a-f5ba007ac5f3")
+	)
+	(segment
+		(start 72.25 75.96)
+		(end 69.25 78.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 54)
+		(uuid "584e348b-0c56-4a24-9c33-e0a6a0c42f77")
+	)
+	(segment
+		(start 92.69 75.96)
+		(end 91.25 75.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 55)
+		(uuid "48d802e2-a04a-4571-adda-ac137f8a281c")
+	)
+	(segment
+		(start 91.25 75.96)
+		(end 88.25 78.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 55)
+		(uuid "abd1e2c4-2269-40c9-b602-6c65bd1f8ff5")
+	)
+	(segment
+		(start 111.69 75.96)
+		(end 110.25 75.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 56)
+		(uuid "3a94ca4a-7dd2-4481-934a-f3a83f379ed8")
+	)
+	(segment
+		(start 110.25 75.96)
+		(end 107.25 78.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 56)
+		(uuid "f2e70abc-76e5-4e31-be58-769d860deeec")
+	)
+	(segment
+		(start 130.69 75.96)
+		(end 129.25 75.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 57)
+		(uuid "7c317ce0-28f7-4d1d-acf2-ac97bb85cab0")
+	)
+	(segment
+		(start 129.25 75.96)
+		(end 126.25 78.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 57)
+		(uuid "9182a03a-6bc6-4f5d-98b5-f1f6145b1a5b")
+	)
+	(segment
+		(start 148.25 75.96)
+		(end 145.25 78.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 58)
+		(uuid "174a9683-cb57-43fb-8866-961b9abdf9aa")
+	)
+	(segment
+		(start 149.69 75.96)
+		(end 148.25 75.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 58)
+		(uuid "22770d9b-1b8a-4acc-a4e3-8639dbc0dc4a")
+	)
+	(segment
+		(start 167.25 75.96)
+		(end 164.25 78.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 59)
+		(uuid "25571618-4c04-48c1-90f4-ef3dcd755528")
+	)
+	(segment
+		(start 168.69 75.96)
+		(end 167.25 75.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 59)
+		(uuid "d16c0fd7-b249-45ac-9b81-3ed33f39fa8a")
+	)
+	(segment
+		(start 186.25 75.96)
+		(end 183.25 78.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 60)
+		(uuid "68b3e7cc-9ba5-4431-88ff-9dc0408dbe8e")
+	)
+	(segment
+		(start 187.69 75.96)
+		(end 186.25 75.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 60)
+		(uuid "c8edc576-7f5e-48bc-b44b-f668420c52c6")
+	)
+	(segment
+		(start 206.69 75.96)
+		(end 205.25 75.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 61)
+		(uuid "84bd923c-cbfa-4bea-935c-d8588a732e1b")
+	)
+	(segment
+		(start 205.25 75.96)
+		(end 202.25 78.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 61)
+		(uuid "bbbec3c0-fb87-4349-a7ad-cbfe546f7c3e")
+	)
+	(segment
+		(start 225.61 75.96)
+		(end 224.25 75.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 62)
+		(uuid "c349753c-40f4-4d80-a3bd-4d34488f8c2a")
+	)
+	(segment
+		(start 224.25 75.96)
+		(end 221.25 78.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 62)
+		(uuid "d330fdbe-79ea-481b-bb41-c6c6768a5b33")
+	)
+	(segment
+		(start 53.25 94.96)
+		(end 50.25 97.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 64)
+		(uuid "77c5b0ba-f56a-48a7-bd9e-62944035e2f6")
+	)
+	(segment
+		(start 54.69 94.96)
+		(end 53.25 94.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 64)
+		(uuid "8309d9bd-6442-4591-99fe-c575f0d390d9")
+	)
+	(segment
+		(start 73.69 94.96)
+		(end 72.25 94.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 65)
+		(uuid "abeeab5c-5b45-4114-aa65-dad9a92df72f")
+	)
+	(segment
+		(start 72.25 94.96)
+		(end 69.25 97.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 65)
+		(uuid "c736f011-217e-4e7f-acfa-89e0f04a27da")
+	)
+	(segment
+		(start 91.17 95.04)
+		(end 88.25 97.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 66)
+		(uuid "339dda4f-ea09-4065-b103-e9fd0b35adc6")
+	)
+	(segment
+		(start 92.65 95.04)
+		(end 91.17 95.04)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 66)
+		(uuid "f407c719-e2f5-4853-8912-991e08a3e6f5")
+	)
+	(segment
+		(start 110.25 94.96)
+		(end 107.25 97.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 67)
+		(uuid "4113e019-5cc7-4c25-bbdd-49e3a9648060")
+	)
+	(segment
+		(start 111.69 94.96)
+		(end 110.25 94.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 67)
+		(uuid "5a53649c-ec48-44e7-8b58-eb9ed86c7332")
+	)
+	(segment
+		(start 130.69 94.96)
+		(end 129.25 94.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 68)
+		(uuid "2932244d-c72b-4b36-9a7c-c7052c24e417")
+	)
+	(segment
+		(start 129.25 94.96)
+		(end 126.25 97.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 68)
+		(uuid "b12af4a1-1ddc-465b-ab52-37526c2373dd")
+	)
+	(segment
+		(start 148.25 94.96)
+		(end 145.25 97.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 69)
+		(uuid "921fe156-1722-4f90-8431-701b27a739a5")
+	)
+	(segment
+		(start 149.69 94.96)
+		(end 148.25 94.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 69)
+		(uuid "94cc9efe-6f8d-4ab8-b01f-b9f360bc56d4")
+	)
+	(segment
+		(start 167.25 94.96)
+		(end 164.25 97.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 70)
+		(uuid "b3eba9db-89f0-463f-9a83-af5827f62d90")
+	)
+	(segment
+		(start 168.69 94.96)
+		(end 167.25 94.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 70)
+		(uuid "b94fa63f-5711-48c7-af23-f637d3e56864")
+	)
+	(segment
+		(start 187.61 94.96)
+		(end 186.25 94.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 71)
+		(uuid "1282289f-bef4-4b4a-99a4-c97a7bf5308f")
+	)
+	(segment
+		(start 186.25 94.96)
+		(end 183.25 97.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 71)
+		(uuid "62bfbfde-399d-41d6-805e-50a863d2ba39")
+	)
+	(segment
+		(start 205.25 94.96)
+		(end 202.25 97.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 72)
+		(uuid "a5fc4f6d-0a06-4226-a9f0-b266d959f3d7")
+	)
+	(segment
+		(start 206.69 94.96)
+		(end 205.25 94.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 72)
+		(uuid "d3495190-a4b2-407f-b05e-4ced3925e0a2")
+	)
+	(segment
+		(start 224.25 94.96)
+		(end 221.25 97.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 73)
+		(uuid "710cc1f8-cbb1-4d36-97f1-f085154439f4")
+	)
+	(segment
+		(start 225.69 94.96)
+		(end 224.25 94.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 73)
+		(uuid "d6559659-4caa-40e0-806c-4f3d75b1dcbf")
+	)
+	(segment
+		(start 53.25 113.96)
+		(end 50.25 116.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "6a73e656-37dc-4bc8-89fd-e7c395eac88e")
+	)
+	(segment
+		(start 54.69 113.96)
+		(end 53.25 113.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "e912c69b-3ce7-4b21-a529-7ccb559974ef")
+	)
+	(segment
+		(start 72.25 113.96)
+		(end 69.25 116.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 76)
+		(uuid "3f0c84db-676a-4f02-ab68-c8bb533ce12a")
+	)
+	(segment
+		(start 73.69 113.96)
+		(end 72.25 113.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 76)
+		(uuid "5bfd8923-33bc-481b-8a30-aab8d3a78d70")
+	)
+	(segment
+		(start 92.69 113.96)
+		(end 91.25 113.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 77)
+		(uuid "0bf62157-d130-42a2-8063-614dc3884993")
+	)
+	(segment
+		(start 91.25 113.96)
+		(end 88.25 116.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 77)
+		(uuid "79000e1e-faa2-42c2-b952-9ea6cb37dc6d")
+	)
+	(segment
+		(start 110.25 113.96)
+		(end 107.25 116.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 78)
+		(uuid "0a16c4cb-168a-4f89-a6a4-f99f084a95ce")
+	)
+	(segment
+		(start 111.69 113.96)
+		(end 110.25 113.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 78)
+		(uuid "a7dc19e5-8fb4-4fc9-a558-1cbd92845553")
+	)
+	(segment
+		(start 129.25 113.96)
+		(end 126.25 116.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 79)
+		(uuid "013782d5-c616-4af4-9527-fa8f50288c6f")
+	)
+	(segment
+		(start 130.61 113.96)
+		(end 129.25 113.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 79)
+		(uuid "59f70dcc-7409-474a-a3df-9b1396cfb0b7")
+	)
+	(segment
+		(start 149.69 113.96)
+		(end 148.25 113.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 80)
+		(uuid "71188651-8abf-4e34-bf42-862e9e92a19b")
+	)
+	(segment
+		(start 148.25 113.96)
+		(end 145.25 116.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 80)
+		(uuid "d6ce3b5f-c7ec-4028-841f-457fadc23a9a")
+	)
+	(segment
+		(start 167.25 113.96)
+		(end 164.25 116.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 81)
+		(uuid "8d3e2e4b-49e4-46b7-b7c6-00e06ba2af45")
+	)
+	(segment
+		(start 168.69 113.96)
+		(end 167.25 113.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 81)
+		(uuid "ea521b50-76b6-47bc-867c-abf69905678a")
+	)
+	(segment
+		(start 186.25 113.96)
+		(end 183.25 116.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 82)
+		(uuid "a9bd90e3-8d96-4350-aec4-c7338dbe2c65")
+	)
+	(segment
+		(start 187.69 113.96)
+		(end 186.25 113.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 82)
+		(uuid "e6cbff77-f77b-41ca-b18a-8d5aa58a0bed")
+	)
+	(segment
+		(start 206.61 113.96)
+		(end 205.25 113.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 83)
+		(uuid "7d5d43ae-f5f6-4d45-b61c-c420d0fe4f6c")
+	)
+	(segment
+		(start 205.25 113.96)
+		(end 202.25 116.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 83)
+		(uuid "9d81e892-f9a6-4eb6-ba3c-a217c02b49dc")
+	)
+	(segment
+		(start 224.25 113.96)
+		(end 221.25 116.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 84)
+		(uuid "65e52bbf-bcf1-426e-8371-b923ed51c66a")
+	)
+	(segment
+		(start 225.69 113.96)
+		(end 224.25 113.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 84)
+		(uuid "6af19c56-0794-4fd9-9c13-09dfe0b1bb6f")
+	)
+	(segment
+		(start 244.69 113.96)
+		(end 243.25 113.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 85)
+		(uuid "3c437cc4-6cd5-4fb3-828a-55048f48c8d6")
+	)
+	(segment
+		(start 243.25 113.96)
+		(end 240.25 116.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 85)
+		(uuid "c48509ab-396c-4669-92cc-a29d1cc69bc9")
+	)
+	(segment
+		(start 262.25 113.96)
+		(end 259.25 116.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 86)
+		(uuid "3e1ced43-d15d-40bc-b88e-d4b4f00a9790")
+	)
+	(segment
+		(start 263.69 113.96)
+		(end 262.25 113.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 86)
+		(uuid "d8266c14-2cd9-4ac0-bdf5-0c70c54fae81")
+	)
+	(segment
+		(start 54.69 132.96)
+		(end 53.25 132.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 88)
+		(uuid "4516cbe0-ab2d-4bb9-b096-c2553fbdb09e")
+	)
+	(segment
+		(start 53.25 132.96)
+		(end 50.25 135.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 88)
+		(uuid "99045c61-a71c-4f70-aa49-edc43fdfd8c7")
+	)
+	(segment
+		(start 73.61 133)
+		(end 72.13 133)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 89)
+		(uuid "3fd1f4f5-ac48-4264-a10d-0c93baa30946")
+	)
+	(segment
+		(start 72.13 133)
+		(end 69.17 135.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 89)
+		(uuid "facdd4e6-8bea-4b7a-a30a-71b6442976a0")
+	)
+	(segment
+		(start 92.61 132.96)
+		(end 91.17 132.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 90)
+		(uuid "9ad81d03-3376-4a81-ac6b-9d9bf829315e")
+	)
+	(segment
+		(start 91.17 132.96)
+		(end 88.17 135.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 90)
+		(uuid "e7bd251c-4206-4419-8fa3-48a6b2a58d74")
+	)
+	(segment
+		(start 111.61 132.96)
+		(end 110.17 132.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 91)
+		(uuid "4d9fb116-cda8-4d13-b679-3ed874456668")
+	)
+	(segment
+		(start 110.17 132.96)
+		(end 107.17 135.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 91)
+		(uuid "b548c7a3-567b-4319-a2ac-207ef88fa85a")
+	)
+	(segment
+		(start 129.17 132.96)
+		(end 126.17 135.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 92)
+		(uuid "04c15e28-d30d-42b3-b56e-ecbdb73ad167")
+	)
+	(segment
+		(start 130.61 132.96)
+		(end 129.17 132.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 92)
+		(uuid "d91be8c3-4032-44f2-90ac-3a381544f251")
+	)
+	(segment
+		(start 149.61 132.96)
+		(end 148.17 132.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 93)
+		(uuid "2f251992-78be-42dd-8a6f-bf7dc41ca9dc")
+	)
+	(segment
+		(start 148.17 132.96)
+		(end 145.17 135.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 93)
+		(uuid "b8f0f97a-1fa4-46a4-908b-d9b7c258fe16")
+	)
+	(segment
+		(start 167.17 132.96)
+		(end 164.17 135.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 94)
+		(uuid "18da86bf-9ac3-4d53-a898-368768b3b2f4")
+	)
+	(segment
+		(start 168.61 132.96)
+		(end 167.17 132.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 94)
+		(uuid "25e74c86-c0e1-49b9-8fdc-26e42f8a6743")
+	)
+	(segment
+		(start 186.17 132.96)
+		(end 183.17 135.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 95)
+		(uuid "d9f2a33e-1fa2-4a2d-88d5-afd6925d9957")
+	)
+	(segment
+		(start 187.61 132.96)
+		(end 186.17 132.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 95)
+		(uuid "f1d69060-c2b1-4db6-9a85-ec86dc9dd35b")
+	)
+	(segment
+		(start 205.17 132.96)
+		(end 202.17 135.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 96)
+		(uuid "0faae263-a1bc-456b-9993-d9b06856cf0c")
+	)
+	(segment
+		(start 206.61 132.96)
+		(end 205.17 132.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 96)
+		(uuid "c37da97e-a158-45f3-a539-993ae8beaba1")
+	)
+	(segment
+		(start 224.17 132.96)
+		(end 221.17 135.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 97)
+		(uuid "18d3dd24-3691-4479-87f6-952dbaf81f01")
+	)
+	(segment
+		(start 225.61 132.96)
+		(end 224.17 132.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 97)
+		(uuid "2d476df4-2015-447c-bea0-64df74e5fedf")
+	)
+	(segment
+		(start 244.61 132.96)
+		(end 243.17 132.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 98)
+		(uuid "21bae5df-6f5f-4bb9-976a-a009b4dbd093")
+	)
+	(segment
+		(start 243.17 132.96)
+		(end 240.17 135.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 98)
+		(uuid "6c29abaa-4f0a-4b7d-b370-34092cf32b42")
+	)
+	(segment
+		(start 263.69 132.96)
+		(end 262.25 132.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 99)
+		(uuid "4401f320-351f-4d1b-b4dc-8465e9e261b9")
+	)
+	(segment
+		(start 262.25 132.96)
+		(end 259.25 135.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 99)
+		(uuid "ca19316c-9cf0-49f1-a93c-5c10c1b31d9f")
 	)
 	(embedded_fonts no)
 )
