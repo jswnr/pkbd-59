@@ -23,10 +23,6 @@
  *
  */
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
 #include "bsp/board_api.h"
 #include "tusb.h"
 
@@ -35,7 +31,7 @@
 #include "keyboard.h"
 
 void hid_task(void);
-uint8_t keycodes[6] = {0};
+uint8_t keycodes[6] = { 0 };
 
 /*------------- MAIN -------------*/
 int main(void) {

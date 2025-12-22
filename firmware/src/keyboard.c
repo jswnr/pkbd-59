@@ -1,6 +1,5 @@
 #include "bsp/board_api.h"
 #include "hardware/gpio.h"
-#include "hardware/timer.h"
 
 #include "keyboard.h"
 
